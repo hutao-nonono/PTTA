@@ -1,0 +1,1441 @@
+task_id,workflow_family,rq2_group,repeat_a,repeat_b,length_a,length_b,s_dev,p_dev,s_ddd,p_ddd,s_nddd,p_nddd,s_cdr,p_cdr
+AC-001,aggregation_comparison,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-001,aggregation_comparison,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-001,aggregation_comparison,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-001,aggregation_comparison,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-001,aggregation_comparison,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-001,aggregation_comparison,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-001,aggregation_comparison,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-001,aggregation_comparison,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-001,aggregation_comparison,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-001,aggregation_comparison,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-002,aggregation_comparison,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-002,aggregation_comparison,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-002,aggregation_comparison,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-002,aggregation_comparison,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-002,aggregation_comparison,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-002,aggregation_comparison,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-002,aggregation_comparison,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-002,aggregation_comparison,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-002,aggregation_comparison,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-002,aggregation_comparison,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-003,aggregation_comparison,Short,1,2,5,4,1,1,1.0,1.0,0.2,0.2,0.2,0.2
+AC-003,aggregation_comparison,Short,1,3,5,4,1,1,1.0,1.0,0.2,0.2,0.2,0.2
+AC-003,aggregation_comparison,Short,1,4,5,4,1,1,1.0,1.0,0.2,0.2,0.2,0.2
+AC-003,aggregation_comparison,Short,1,5,5,4,1,1,1.0,1.0,0.2,0.2,0.2,0.2
+AC-003,aggregation_comparison,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-003,aggregation_comparison,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-003,aggregation_comparison,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-003,aggregation_comparison,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-003,aggregation_comparison,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-003,aggregation_comparison,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-004,aggregation_comparison,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-004,aggregation_comparison,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-004,aggregation_comparison,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-004,aggregation_comparison,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-004,aggregation_comparison,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-004,aggregation_comparison,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-004,aggregation_comparison,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-004,aggregation_comparison,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-004,aggregation_comparison,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-004,aggregation_comparison,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-001,classification_formatting,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-001,classification_formatting,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-001,classification_formatting,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-001,classification_formatting,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-001,classification_formatting,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-001,classification_formatting,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-001,classification_formatting,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-001,classification_formatting,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-001,classification_formatting,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-001,classification_formatting,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-002,classification_formatting,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-002,classification_formatting,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-002,classification_formatting,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-002,classification_formatting,Short,1,5,4,5,1,1,2.0,2.0,0.5,0.5,0.2,0.2
+CF-002,classification_formatting,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-002,classification_formatting,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-002,classification_formatting,Short,2,5,4,5,1,1,2.0,2.0,0.5,0.5,0.2,0.2
+CF-002,classification_formatting,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-002,classification_formatting,Short,3,5,4,5,1,1,2.0,2.0,0.5,0.5,0.2,0.2
+CF-002,classification_formatting,Short,4,5,4,5,1,1,2.0,2.0,0.5,0.5,0.2,0.2
+CF-003,classification_formatting,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-003,classification_formatting,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-003,classification_formatting,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-003,classification_formatting,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-003,classification_formatting,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-003,classification_formatting,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-003,classification_formatting,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-003,classification_formatting,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-003,classification_formatting,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-003,classification_formatting,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-004,classification_formatting,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-004,classification_formatting,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-004,classification_formatting,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-004,classification_formatting,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-004,classification_formatting,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-004,classification_formatting,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-004,classification_formatting,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-004,classification_formatting,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-004,classification_formatting,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-004,classification_formatting,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-001,database_structured,Short,1,2,4,5,1,1,2.0,2.0,0.5,0.5,0.2,0.2
+DB-001,database_structured,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-001,database_structured,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-001,database_structured,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-001,database_structured,Short,2,3,5,4,1,1,1.0,1.0,0.2,0.2,0.2,0.2
+DB-001,database_structured,Short,2,4,5,4,1,1,1.0,1.0,0.2,0.2,0.2,0.2
+DB-001,database_structured,Short,2,5,5,4,1,1,1.0,1.0,0.2,0.2,0.2,0.2
+DB-001,database_structured,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-001,database_structured,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-001,database_structured,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-002,database_structured,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-002,database_structured,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-002,database_structured,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-002,database_structured,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-002,database_structured,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-002,database_structured,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-002,database_structured,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-002,database_structured,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-002,database_structured,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-002,database_structured,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-003,database_structured,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-003,database_structured,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-003,database_structured,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-003,database_structured,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-003,database_structured,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-003,database_structured,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-003,database_structured,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-003,database_structured,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-003,database_structured,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-003,database_structured,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-004,database_structured,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-004,database_structured,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-004,database_structured,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-004,database_structured,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-004,database_structured,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-004,database_structured,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-004,database_structured,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-004,database_structured,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-004,database_structured,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-004,database_structured,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-001,document_processing,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-001,document_processing,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-001,document_processing,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-001,document_processing,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-001,document_processing,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-001,document_processing,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-001,document_processing,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-001,document_processing,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-001,document_processing,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-001,document_processing,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-002,document_processing,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-002,document_processing,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-002,document_processing,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-002,document_processing,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-002,document_processing,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-002,document_processing,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-002,document_processing,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-002,document_processing,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-002,document_processing,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-002,document_processing,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-003,document_processing,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-003,document_processing,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-003,document_processing,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-003,document_processing,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-003,document_processing,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-003,document_processing,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-003,document_processing,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-003,document_processing,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-003,document_processing,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-003,document_processing,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-004,document_processing,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-004,document_processing,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-004,document_processing,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-004,document_processing,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-004,document_processing,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-004,document_processing,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-004,document_processing,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-004,document_processing,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-004,document_processing,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-004,document_processing,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-001,filtering_selection,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-001,filtering_selection,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-001,filtering_selection,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-001,filtering_selection,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-001,filtering_selection,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-001,filtering_selection,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-001,filtering_selection,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-001,filtering_selection,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-001,filtering_selection,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-001,filtering_selection,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-002,filtering_selection,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-002,filtering_selection,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-002,filtering_selection,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-002,filtering_selection,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-002,filtering_selection,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-002,filtering_selection,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-002,filtering_selection,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-002,filtering_selection,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-002,filtering_selection,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-002,filtering_selection,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-003,filtering_selection,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-003,filtering_selection,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-003,filtering_selection,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-003,filtering_selection,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-003,filtering_selection,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-003,filtering_selection,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-003,filtering_selection,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-003,filtering_selection,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-003,filtering_selection,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-003,filtering_selection,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-004,filtering_selection,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-004,filtering_selection,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-004,filtering_selection,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-004,filtering_selection,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-004,filtering_selection,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-004,filtering_selection,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-004,filtering_selection,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-004,filtering_selection,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-004,filtering_selection,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-004,filtering_selection,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-001,information_retrieval,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-001,information_retrieval,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-001,information_retrieval,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-001,information_retrieval,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-001,information_retrieval,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-001,information_retrieval,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-001,information_retrieval,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-001,information_retrieval,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-001,information_retrieval,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-001,information_retrieval,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-002,information_retrieval,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-002,information_retrieval,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-002,information_retrieval,Short,1,4,4,5,1,1,2.0,2.0,0.5,0.5,0.2,0.2
+IR-002,information_retrieval,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-002,information_retrieval,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-002,information_retrieval,Short,2,4,4,5,1,1,2.0,2.0,0.5,0.5,0.2,0.2
+IR-002,information_retrieval,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-002,information_retrieval,Short,3,4,4,5,1,1,2.0,2.0,0.5,0.5,0.2,0.2
+IR-002,information_retrieval,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-002,information_retrieval,Short,4,5,5,4,1,1,1.0,1.0,0.2,0.2,0.2,0.2
+IR-003,information_retrieval,Short,1,2,5,4,1,1,1.0,1.0,0.2,0.2,0.2,0.2
+IR-003,information_retrieval,Short,1,3,5,4,1,1,1.0,1.0,0.2,0.2,0.2,0.2
+IR-003,information_retrieval,Short,1,4,5,4,1,1,1.0,1.0,0.2,0.2,0.2,0.2
+IR-003,information_retrieval,Short,1,5,5,4,1,1,1.0,1.0,0.2,0.2,0.2,0.2
+IR-003,information_retrieval,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-003,information_retrieval,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-003,information_retrieval,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-003,information_retrieval,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-003,information_retrieval,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-003,information_retrieval,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-004,information_retrieval,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-004,information_retrieval,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-004,information_retrieval,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-004,information_retrieval,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-004,information_retrieval,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-004,information_retrieval,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-004,information_retrieval,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-004,information_retrieval,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-004,information_retrieval,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-004,information_retrieval,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-001,mixed_multi_step,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-001,mixed_multi_step,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-001,mixed_multi_step,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-001,mixed_multi_step,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-001,mixed_multi_step,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-001,mixed_multi_step,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-001,mixed_multi_step,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-001,mixed_multi_step,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-001,mixed_multi_step,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-001,mixed_multi_step,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-002,mixed_multi_step,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-002,mixed_multi_step,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-002,mixed_multi_step,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-002,mixed_multi_step,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-002,mixed_multi_step,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-002,mixed_multi_step,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-002,mixed_multi_step,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-002,mixed_multi_step,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-002,mixed_multi_step,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-002,mixed_multi_step,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-003,mixed_multi_step,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-003,mixed_multi_step,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-003,mixed_multi_step,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-003,mixed_multi_step,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-003,mixed_multi_step,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-003,mixed_multi_step,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-003,mixed_multi_step,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-003,mixed_multi_step,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-003,mixed_multi_step,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-003,mixed_multi_step,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-001,numerical_analysis,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-001,numerical_analysis,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-001,numerical_analysis,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-001,numerical_analysis,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-001,numerical_analysis,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-001,numerical_analysis,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-001,numerical_analysis,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-001,numerical_analysis,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-001,numerical_analysis,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-001,numerical_analysis,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-002,numerical_analysis,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-002,numerical_analysis,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-002,numerical_analysis,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-002,numerical_analysis,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-002,numerical_analysis,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-002,numerical_analysis,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-002,numerical_analysis,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-002,numerical_analysis,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-002,numerical_analysis,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-002,numerical_analysis,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-003,numerical_analysis,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-003,numerical_analysis,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-003,numerical_analysis,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-003,numerical_analysis,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-003,numerical_analysis,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-003,numerical_analysis,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-003,numerical_analysis,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-003,numerical_analysis,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-003,numerical_analysis,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-003,numerical_analysis,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-001,multi_source_synthesis,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-001,multi_source_synthesis,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-001,multi_source_synthesis,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-001,multi_source_synthesis,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-001,multi_source_synthesis,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-001,multi_source_synthesis,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-001,multi_source_synthesis,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-001,multi_source_synthesis,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-001,multi_source_synthesis,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-001,multi_source_synthesis,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-002,multi_source_synthesis,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-002,multi_source_synthesis,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-002,multi_source_synthesis,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-002,multi_source_synthesis,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-002,multi_source_synthesis,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-002,multi_source_synthesis,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-002,multi_source_synthesis,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-002,multi_source_synthesis,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-002,multi_source_synthesis,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-002,multi_source_synthesis,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-003,multi_source_synthesis,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-003,multi_source_synthesis,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-003,multi_source_synthesis,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-003,multi_source_synthesis,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-003,multi_source_synthesis,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-003,multi_source_synthesis,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-003,multi_source_synthesis,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-003,multi_source_synthesis,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-003,multi_source_synthesis,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-003,multi_source_synthesis,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-001,translation_processing,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-001,translation_processing,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-001,translation_processing,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-001,translation_processing,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-001,translation_processing,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-001,translation_processing,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-001,translation_processing,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-001,translation_processing,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-001,translation_processing,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-001,translation_processing,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-002,translation_processing,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-002,translation_processing,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-002,translation_processing,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-002,translation_processing,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-002,translation_processing,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-002,translation_processing,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-002,translation_processing,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-002,translation_processing,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-002,translation_processing,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-002,translation_processing,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-003,translation_processing,Short,1,2,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-003,translation_processing,Short,1,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-003,translation_processing,Short,1,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-003,translation_processing,Short,1,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-003,translation_processing,Short,2,3,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-003,translation_processing,Short,2,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-003,translation_processing,Short,2,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-003,translation_processing,Short,3,4,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-003,translation_processing,Short,3,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-003,translation_processing,Short,4,5,4,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-006,aggregation_comparison,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-006,aggregation_comparison,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-006,aggregation_comparison,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-006,aggregation_comparison,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-006,aggregation_comparison,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-006,aggregation_comparison,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-006,aggregation_comparison,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-006,aggregation_comparison,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-006,aggregation_comparison,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-006,aggregation_comparison,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-007,aggregation_comparison,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-007,aggregation_comparison,Medium,1,3,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+AC-007,aggregation_comparison,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-007,aggregation_comparison,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-007,aggregation_comparison,Medium,2,3,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+AC-007,aggregation_comparison,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-007,aggregation_comparison,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-007,aggregation_comparison,Medium,3,4,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+AC-007,aggregation_comparison,Medium,3,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+AC-007,aggregation_comparison,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-008,aggregation_comparison,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-008,aggregation_comparison,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-008,aggregation_comparison,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-008,aggregation_comparison,Medium,1,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+AC-008,aggregation_comparison,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-008,aggregation_comparison,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-008,aggregation_comparison,Medium,2,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+AC-008,aggregation_comparison,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-008,aggregation_comparison,Medium,3,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+AC-008,aggregation_comparison,Medium,4,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+AC-009,aggregation_comparison,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-009,aggregation_comparison,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-009,aggregation_comparison,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-009,aggregation_comparison,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-009,aggregation_comparison,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-009,aggregation_comparison,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-009,aggregation_comparison,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-009,aggregation_comparison,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-009,aggregation_comparison,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-009,aggregation_comparison,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-006,classification_formatting,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-006,classification_formatting,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-006,classification_formatting,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-006,classification_formatting,Medium,1,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+CF-006,classification_formatting,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-006,classification_formatting,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-006,classification_formatting,Medium,2,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+CF-006,classification_formatting,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-006,classification_formatting,Medium,3,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+CF-006,classification_formatting,Medium,4,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+CF-007,classification_formatting,Medium,1,2,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+CF-007,classification_formatting,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-007,classification_formatting,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-007,classification_formatting,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-007,classification_formatting,Medium,2,3,7,6,1,1,1.0,1.0,0.142857,0.142857,0.142857,0.142857
+CF-007,classification_formatting,Medium,2,4,7,6,1,1,1.0,1.0,0.142857,0.142857,0.142857,0.142857
+CF-007,classification_formatting,Medium,2,5,7,6,1,1,1.0,1.0,0.142857,0.142857,0.142857,0.142857
+CF-007,classification_formatting,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-007,classification_formatting,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-007,classification_formatting,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-008,classification_formatting,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-008,classification_formatting,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-008,classification_formatting,Medium,1,4,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+CF-008,classification_formatting,Medium,1,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+CF-008,classification_formatting,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-008,classification_formatting,Medium,2,4,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+CF-008,classification_formatting,Medium,2,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+CF-008,classification_formatting,Medium,3,4,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+CF-008,classification_formatting,Medium,3,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+CF-008,classification_formatting,Medium,4,5,7,6,1,1,1.0,6.0,0.142857,0.857143,0.142857,0.178571
+CF-009,classification_formatting,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-009,classification_formatting,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-009,classification_formatting,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-009,classification_formatting,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-009,classification_formatting,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-009,classification_formatting,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-009,classification_formatting,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-009,classification_formatting,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-009,classification_formatting,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-009,classification_formatting,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-006,database_structured,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-006,database_structured,Medium,1,3,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+DB-006,database_structured,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-006,database_structured,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-006,database_structured,Medium,2,3,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+DB-006,database_structured,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-006,database_structured,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-006,database_structured,Medium,3,4,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+DB-006,database_structured,Medium,3,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+DB-006,database_structured,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-007,database_structured,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-007,database_structured,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-007,database_structured,Medium,1,4,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+DB-007,database_structured,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-007,database_structured,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-007,database_structured,Medium,2,4,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+DB-007,database_structured,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-007,database_structured,Medium,3,4,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+DB-007,database_structured,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-007,database_structured,Medium,4,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+DB-008,database_structured,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-008,database_structured,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-008,database_structured,Medium,1,4,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+DB-008,database_structured,Medium,1,5,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+DB-008,database_structured,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-008,database_structured,Medium,2,4,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+DB-008,database_structured,Medium,2,5,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+DB-008,database_structured,Medium,3,4,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+DB-008,database_structured,Medium,3,5,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+DB-008,database_structured,Medium,4,5,6,7,1,1,2.0,3.0,0.333333,0.5,0.142857,0.178571
+DB-009,database_structured,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-009,database_structured,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-009,database_structured,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-009,database_structured,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-009,database_structured,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-009,database_structured,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-009,database_structured,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-009,database_structured,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-009,database_structured,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-009,database_structured,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-006,document_processing,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-006,document_processing,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-006,document_processing,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-006,document_processing,Medium,1,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+DOC-006,document_processing,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-006,document_processing,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-006,document_processing,Medium,2,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+DOC-006,document_processing,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-006,document_processing,Medium,3,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+DOC-006,document_processing,Medium,4,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+DOC-007,document_processing,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-007,document_processing,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-007,document_processing,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-007,document_processing,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-007,document_processing,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-007,document_processing,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-007,document_processing,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-007,document_processing,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-007,document_processing,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-007,document_processing,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-008,document_processing,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-008,document_processing,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-008,document_processing,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-008,document_processing,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-008,document_processing,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-008,document_processing,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-008,document_processing,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-008,document_processing,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-008,document_processing,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-008,document_processing,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-009,document_processing,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-009,document_processing,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-009,document_processing,Medium,1,4,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+DOC-009,document_processing,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-009,document_processing,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-009,document_processing,Medium,2,4,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+DOC-009,document_processing,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-009,document_processing,Medium,3,4,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+DOC-009,document_processing,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-009,document_processing,Medium,4,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+FS-006,filtering_selection,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-006,filtering_selection,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-006,filtering_selection,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-006,filtering_selection,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-006,filtering_selection,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-006,filtering_selection,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-006,filtering_selection,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-006,filtering_selection,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-006,filtering_selection,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-006,filtering_selection,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-007,filtering_selection,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-007,filtering_selection,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-007,filtering_selection,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-007,filtering_selection,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-007,filtering_selection,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-007,filtering_selection,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-007,filtering_selection,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-007,filtering_selection,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-007,filtering_selection,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-007,filtering_selection,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-008,filtering_selection,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-008,filtering_selection,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-008,filtering_selection,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-008,filtering_selection,Medium,1,5,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+FS-008,filtering_selection,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-008,filtering_selection,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-008,filtering_selection,Medium,2,5,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+FS-008,filtering_selection,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-008,filtering_selection,Medium,3,5,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+FS-008,filtering_selection,Medium,4,5,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+FS-009,filtering_selection,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-009,filtering_selection,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-009,filtering_selection,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-009,filtering_selection,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-009,filtering_selection,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-009,filtering_selection,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-009,filtering_selection,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-009,filtering_selection,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-009,filtering_selection,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-009,filtering_selection,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-006,information_retrieval,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-006,information_retrieval,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-006,information_retrieval,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-006,information_retrieval,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-006,information_retrieval,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-006,information_retrieval,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-006,information_retrieval,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-006,information_retrieval,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-006,information_retrieval,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-006,information_retrieval,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-007,information_retrieval,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-007,information_retrieval,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-007,information_retrieval,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-007,information_retrieval,Medium,1,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+IR-007,information_retrieval,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-007,information_retrieval,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-007,information_retrieval,Medium,2,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+IR-007,information_retrieval,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-007,information_retrieval,Medium,3,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+IR-007,information_retrieval,Medium,4,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+IR-008,information_retrieval,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-008,information_retrieval,Medium,1,3,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+IR-008,information_retrieval,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-008,information_retrieval,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-008,information_retrieval,Medium,2,3,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+IR-008,information_retrieval,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-008,information_retrieval,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-008,information_retrieval,Medium,3,4,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+IR-008,information_retrieval,Medium,3,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+IR-008,information_retrieval,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-009,information_retrieval,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-009,information_retrieval,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-009,information_retrieval,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-009,information_retrieval,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-009,information_retrieval,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-009,information_retrieval,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-009,information_retrieval,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-009,information_retrieval,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-009,information_retrieval,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-009,information_retrieval,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-006,mixed_multi_step,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-006,mixed_multi_step,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-006,mixed_multi_step,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-006,mixed_multi_step,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-006,mixed_multi_step,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-006,mixed_multi_step,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-006,mixed_multi_step,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-006,mixed_multi_step,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-006,mixed_multi_step,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-006,mixed_multi_step,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-007,mixed_multi_step,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-007,mixed_multi_step,Medium,1,3,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+MIX-007,mixed_multi_step,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-007,mixed_multi_step,Medium,1,5,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+MIX-007,mixed_multi_step,Medium,2,3,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+MIX-007,mixed_multi_step,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-007,mixed_multi_step,Medium,2,5,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+MIX-007,mixed_multi_step,Medium,3,4,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+MIX-007,mixed_multi_step,Medium,3,5,6,7,1,1,2.0,5.0,0.333333,0.833333,0.142857,0.178571
+MIX-007,mixed_multi_step,Medium,4,5,6,7,1,1,2.0,2.0,0.333333,0.333333,0.142857,0.142857
+MIX-008,mixed_multi_step,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-008,mixed_multi_step,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-008,mixed_multi_step,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-008,mixed_multi_step,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-008,mixed_multi_step,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-008,mixed_multi_step,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-008,mixed_multi_step,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-008,mixed_multi_step,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-008,mixed_multi_step,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-008,mixed_multi_step,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-006,numerical_analysis,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-006,numerical_analysis,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-006,numerical_analysis,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-006,numerical_analysis,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-006,numerical_analysis,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-006,numerical_analysis,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-006,numerical_analysis,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-006,numerical_analysis,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-006,numerical_analysis,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-006,numerical_analysis,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-007,numerical_analysis,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-007,numerical_analysis,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-007,numerical_analysis,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-007,numerical_analysis,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-007,numerical_analysis,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-007,numerical_analysis,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-007,numerical_analysis,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-007,numerical_analysis,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-007,numerical_analysis,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-007,numerical_analysis,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-008,numerical_analysis,Medium,1,2,7,6,1,1,1.0,1.0,0.142857,0.142857,0.142857,0.142857
+NUM-008,numerical_analysis,Medium,1,3,7,6,1,1,1.0,1.0,0.142857,0.142857,0.142857,0.142857
+NUM-008,numerical_analysis,Medium,1,4,7,6,1,1,1.0,2.0,0.142857,0.285714,0.142857,0.178571
+NUM-008,numerical_analysis,Medium,1,5,7,6,1,1,1.0,1.0,0.142857,0.142857,0.142857,0.142857
+NUM-008,numerical_analysis,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-008,numerical_analysis,Medium,2,4,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+NUM-008,numerical_analysis,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-008,numerical_analysis,Medium,3,4,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+NUM-008,numerical_analysis,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-008,numerical_analysis,Medium,4,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+SYN-006,multi_source_synthesis,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-006,multi_source_synthesis,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-006,multi_source_synthesis,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-006,multi_source_synthesis,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-006,multi_source_synthesis,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-006,multi_source_synthesis,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-006,multi_source_synthesis,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-006,multi_source_synthesis,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-006,multi_source_synthesis,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-006,multi_source_synthesis,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-007,multi_source_synthesis,Medium,1,2,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+SYN-007,multi_source_synthesis,Medium,1,3,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+SYN-007,multi_source_synthesis,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-007,multi_source_synthesis,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-007,multi_source_synthesis,Medium,2,3,6,6,0,1,0.0,4.0,0.0,0.666667,0.0,0.083333
+SYN-007,multi_source_synthesis,Medium,2,4,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+SYN-007,multi_source_synthesis,Medium,2,5,6,6,0,1,0.0,2.0,0.0,0.333333,0.0,0.041667
+SYN-007,multi_source_synthesis,Medium,3,4,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+SYN-007,multi_source_synthesis,Medium,3,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+SYN-007,multi_source_synthesis,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-008,multi_source_synthesis,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-008,multi_source_synthesis,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-008,multi_source_synthesis,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-008,multi_source_synthesis,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-008,multi_source_synthesis,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-008,multi_source_synthesis,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-008,multi_source_synthesis,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-008,multi_source_synthesis,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-008,multi_source_synthesis,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-008,multi_source_synthesis,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-006,translation_processing,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-006,translation_processing,Medium,1,3,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+TR-006,translation_processing,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-006,translation_processing,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-006,translation_processing,Medium,2,3,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+TR-006,translation_processing,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-006,translation_processing,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-006,translation_processing,Medium,3,4,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+TR-006,translation_processing,Medium,3,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+TR-006,translation_processing,Medium,4,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-007,translation_processing,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-007,translation_processing,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-007,translation_processing,Medium,1,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-007,translation_processing,Medium,1,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+TR-007,translation_processing,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-007,translation_processing,Medium,2,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-007,translation_processing,Medium,2,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+TR-007,translation_processing,Medium,3,4,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-007,translation_processing,Medium,3,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+TR-007,translation_processing,Medium,4,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+TR-008,translation_processing,Medium,1,2,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-008,translation_processing,Medium,1,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-008,translation_processing,Medium,1,4,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+TR-008,translation_processing,Medium,1,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-008,translation_processing,Medium,2,3,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-008,translation_processing,Medium,2,4,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+TR-008,translation_processing,Medium,2,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-008,translation_processing,Medium,3,4,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+TR-008,translation_processing,Medium,3,5,6,6,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-008,translation_processing,Medium,4,5,6,6,0,1,0.0,1.0,0.0,0.166667,0.0,0.041667
+AC-011,aggregation_comparison,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-011,aggregation_comparison,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-011,aggregation_comparison,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-011,aggregation_comparison,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-011,aggregation_comparison,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-011,aggregation_comparison,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-011,aggregation_comparison,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-011,aggregation_comparison,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-011,aggregation_comparison,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-011,aggregation_comparison,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-012,aggregation_comparison,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-012,aggregation_comparison,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-012,aggregation_comparison,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-012,aggregation_comparison,Long,1,5,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+AC-012,aggregation_comparison,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-012,aggregation_comparison,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-012,aggregation_comparison,Long,2,5,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+AC-012,aggregation_comparison,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-012,aggregation_comparison,Long,3,5,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+AC-012,aggregation_comparison,Long,4,5,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+AC-013,aggregation_comparison,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-013,aggregation_comparison,Long,1,3,9,10,1,1,2.0,3.0,0.222222,0.333333,0.1,0.125
+AC-013,aggregation_comparison,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-013,aggregation_comparison,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-013,aggregation_comparison,Long,2,3,9,10,1,1,2.0,3.0,0.222222,0.333333,0.1,0.125
+AC-013,aggregation_comparison,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-013,aggregation_comparison,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-013,aggregation_comparison,Long,3,4,10,9,1,1,1.0,2.0,0.1,0.2,0.1,0.125
+AC-013,aggregation_comparison,Long,3,5,10,9,1,1,1.0,2.0,0.1,0.2,0.1,0.125
+AC-013,aggregation_comparison,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-014,aggregation_comparison,Long,1,2,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.1
+AC-014,aggregation_comparison,Long,1,3,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.1
+AC-014,aggregation_comparison,Long,1,4,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.1
+AC-014,aggregation_comparison,Long,1,5,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.1
+AC-014,aggregation_comparison,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-014,aggregation_comparison,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-014,aggregation_comparison,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-014,aggregation_comparison,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-014,aggregation_comparison,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-014,aggregation_comparison,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-011,classification_formatting,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-011,classification_formatting,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-011,classification_formatting,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-011,classification_formatting,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-011,classification_formatting,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-011,classification_formatting,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-011,classification_formatting,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-011,classification_formatting,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-011,classification_formatting,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-011,classification_formatting,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-012,classification_formatting,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-012,classification_formatting,Long,1,3,9,10,1,1,2.0,2.0,0.222222,0.222222,0.1,0.1
+CF-012,classification_formatting,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-012,classification_formatting,Long,1,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+CF-012,classification_formatting,Long,2,3,9,10,1,1,2.0,2.0,0.222222,0.222222,0.1,0.1
+CF-012,classification_formatting,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-012,classification_formatting,Long,2,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+CF-012,classification_formatting,Long,3,4,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.1
+CF-012,classification_formatting,Long,3,5,10,9,1,1,1.0,9.0,0.1,0.9,0.1,0.125
+CF-012,classification_formatting,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+CF-013,classification_formatting,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-013,classification_formatting,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-013,classification_formatting,Long,1,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+CF-013,classification_formatting,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-013,classification_formatting,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-013,classification_formatting,Long,2,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+CF-013,classification_formatting,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-013,classification_formatting,Long,3,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+CF-013,classification_formatting,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-013,classification_formatting,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+CF-014,classification_formatting,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-014,classification_formatting,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-014,classification_formatting,Long,1,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+CF-014,classification_formatting,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-014,classification_formatting,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-014,classification_formatting,Long,2,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+CF-014,classification_formatting,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-014,classification_formatting,Long,3,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+CF-014,classification_formatting,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-014,classification_formatting,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DB-011,database_structured,Long,1,2,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.1
+DB-011,database_structured,Long,1,3,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.1
+DB-011,database_structured,Long,1,4,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.1
+DB-011,database_structured,Long,1,5,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.1
+DB-011,database_structured,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-011,database_structured,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-011,database_structured,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-011,database_structured,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-011,database_structured,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-011,database_structured,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-012,database_structured,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-012,database_structured,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-012,database_structured,Long,1,4,9,10,1,1,1.0,2.0,0.111111,0.222222,0.1,0.125
+DB-012,database_structured,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-012,database_structured,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-012,database_structured,Long,2,4,9,10,1,1,1.0,2.0,0.111111,0.222222,0.1,0.125
+DB-012,database_structured,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-012,database_structured,Long,3,4,9,10,1,1,1.0,2.0,0.111111,0.222222,0.1,0.125
+DB-012,database_structured,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-012,database_structured,Long,4,5,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.125
+DB-013,database_structured,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-013,database_structured,Long,1,3,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DB-013,database_structured,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-013,database_structured,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-013,database_structured,Long,2,3,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DB-013,database_structured,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-013,database_structured,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-013,database_structured,Long,3,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DB-013,database_structured,Long,3,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DB-013,database_structured,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-014,database_structured,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-014,database_structured,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-014,database_structured,Long,1,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DB-014,database_structured,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-014,database_structured,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-014,database_structured,Long,2,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DB-014,database_structured,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-014,database_structured,Long,3,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DB-014,database_structured,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-014,database_structured,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DOC-011,document_processing,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-011,document_processing,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-011,document_processing,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-011,document_processing,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-011,document_processing,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-011,document_processing,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-011,document_processing,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-011,document_processing,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-011,document_processing,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-011,document_processing,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-012,document_processing,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-012,document_processing,Long,1,3,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DOC-012,document_processing,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-012,document_processing,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-012,document_processing,Long,2,3,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DOC-012,document_processing,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-012,document_processing,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-012,document_processing,Long,3,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DOC-012,document_processing,Long,3,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DOC-012,document_processing,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-013,document_processing,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-013,document_processing,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-013,document_processing,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-013,document_processing,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-013,document_processing,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-013,document_processing,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-013,document_processing,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-013,document_processing,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-013,document_processing,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-013,document_processing,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-014,document_processing,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-014,document_processing,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-014,document_processing,Long,1,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DOC-014,document_processing,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-014,document_processing,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-014,document_processing,Long,2,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DOC-014,document_processing,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-014,document_processing,Long,3,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+DOC-014,document_processing,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-014,document_processing,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+FS-011,filtering_selection,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-011,filtering_selection,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-011,filtering_selection,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-011,filtering_selection,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-011,filtering_selection,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-011,filtering_selection,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-011,filtering_selection,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-011,filtering_selection,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-011,filtering_selection,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-011,filtering_selection,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-012,filtering_selection,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-012,filtering_selection,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-012,filtering_selection,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-012,filtering_selection,Long,1,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+FS-012,filtering_selection,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-012,filtering_selection,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-012,filtering_selection,Long,2,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+FS-012,filtering_selection,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-012,filtering_selection,Long,3,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+FS-012,filtering_selection,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+FS-013,filtering_selection,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-013,filtering_selection,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-013,filtering_selection,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-013,filtering_selection,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-013,filtering_selection,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-013,filtering_selection,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-013,filtering_selection,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-013,filtering_selection,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-013,filtering_selection,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-013,filtering_selection,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-014,filtering_selection,Long,1,2,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.1
+FS-014,filtering_selection,Long,1,3,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.1
+FS-014,filtering_selection,Long,1,4,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.1
+FS-014,filtering_selection,Long,1,5,10,9,1,1,1.0,1.0,0.1,0.1,0.1,0.125
+FS-014,filtering_selection,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-014,filtering_selection,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-014,filtering_selection,Long,2,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+FS-014,filtering_selection,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-014,filtering_selection,Long,3,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+FS-014,filtering_selection,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+IR-011,information_retrieval,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-011,information_retrieval,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-011,information_retrieval,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-011,information_retrieval,Long,1,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+IR-011,information_retrieval,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-011,information_retrieval,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-011,information_retrieval,Long,2,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+IR-011,information_retrieval,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-011,information_retrieval,Long,3,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+IR-011,information_retrieval,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+IR-012,information_retrieval,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-012,information_retrieval,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-012,information_retrieval,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-012,information_retrieval,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-012,information_retrieval,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-012,information_retrieval,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-012,information_retrieval,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-012,information_retrieval,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-012,information_retrieval,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-012,information_retrieval,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-013,information_retrieval,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-013,information_retrieval,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-013,information_retrieval,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-013,information_retrieval,Long,1,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+IR-013,information_retrieval,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-013,information_retrieval,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-013,information_retrieval,Long,2,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+IR-013,information_retrieval,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-013,information_retrieval,Long,3,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+IR-013,information_retrieval,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+IR-014,information_retrieval,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-014,information_retrieval,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-014,information_retrieval,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-014,information_retrieval,Long,1,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+IR-014,information_retrieval,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-014,information_retrieval,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-014,information_retrieval,Long,2,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+IR-014,information_retrieval,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-014,information_retrieval,Long,3,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+IR-014,information_retrieval,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+MIX-011,mixed_multi_step,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-011,mixed_multi_step,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-011,mixed_multi_step,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-011,mixed_multi_step,Long,1,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+MIX-011,mixed_multi_step,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-011,mixed_multi_step,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-011,mixed_multi_step,Long,2,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+MIX-011,mixed_multi_step,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-011,mixed_multi_step,Long,3,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+MIX-011,mixed_multi_step,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+MIX-012,mixed_multi_step,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-012,mixed_multi_step,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-012,mixed_multi_step,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-012,mixed_multi_step,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-012,mixed_multi_step,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-012,mixed_multi_step,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-012,mixed_multi_step,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-012,mixed_multi_step,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-012,mixed_multi_step,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-012,mixed_multi_step,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-013,mixed_multi_step,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-013,mixed_multi_step,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-013,mixed_multi_step,Long,1,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+MIX-013,mixed_multi_step,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-013,mixed_multi_step,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-013,mixed_multi_step,Long,2,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+MIX-013,mixed_multi_step,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-013,mixed_multi_step,Long,3,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+MIX-013,mixed_multi_step,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-013,mixed_multi_step,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+NUM-011,numerical_analysis,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-011,numerical_analysis,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-011,numerical_analysis,Long,1,4,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+NUM-011,numerical_analysis,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-011,numerical_analysis,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-011,numerical_analysis,Long,2,4,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+NUM-011,numerical_analysis,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-011,numerical_analysis,Long,3,4,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+NUM-011,numerical_analysis,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-011,numerical_analysis,Long,4,5,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+NUM-012,numerical_analysis,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-012,numerical_analysis,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-012,numerical_analysis,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-012,numerical_analysis,Long,1,5,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+NUM-012,numerical_analysis,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-012,numerical_analysis,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-012,numerical_analysis,Long,2,5,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+NUM-012,numerical_analysis,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-012,numerical_analysis,Long,3,5,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+NUM-012,numerical_analysis,Long,4,5,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+NUM-013,numerical_analysis,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-013,numerical_analysis,Long,1,3,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+NUM-013,numerical_analysis,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-013,numerical_analysis,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-013,numerical_analysis,Long,2,3,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+NUM-013,numerical_analysis,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-013,numerical_analysis,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-013,numerical_analysis,Long,3,4,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+NUM-013,numerical_analysis,Long,3,5,9,9,0,1,0.0,2.0,0.0,0.222222,0.0,0.027778
+NUM-013,numerical_analysis,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-011,multi_source_synthesis,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-011,multi_source_synthesis,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-011,multi_source_synthesis,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-011,multi_source_synthesis,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-011,multi_source_synthesis,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-011,multi_source_synthesis,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-011,multi_source_synthesis,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-011,multi_source_synthesis,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-011,multi_source_synthesis,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-011,multi_source_synthesis,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-012,multi_source_synthesis,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-012,multi_source_synthesis,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-012,multi_source_synthesis,Long,1,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+SYN-012,multi_source_synthesis,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-012,multi_source_synthesis,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-012,multi_source_synthesis,Long,2,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+SYN-012,multi_source_synthesis,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-012,multi_source_synthesis,Long,3,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+SYN-012,multi_source_synthesis,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-012,multi_source_synthesis,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+SYN-013,multi_source_synthesis,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-013,multi_source_synthesis,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-013,multi_source_synthesis,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-013,multi_source_synthesis,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-013,multi_source_synthesis,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-013,multi_source_synthesis,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-013,multi_source_synthesis,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-013,multi_source_synthesis,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-013,multi_source_synthesis,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-013,multi_source_synthesis,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-011,translation_processing,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-011,translation_processing,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-011,translation_processing,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-011,translation_processing,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-011,translation_processing,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-011,translation_processing,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-011,translation_processing,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-011,translation_processing,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-011,translation_processing,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-011,translation_processing,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-012,translation_processing,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-012,translation_processing,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-012,translation_processing,Long,1,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+TR-012,translation_processing,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-012,translation_processing,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-012,translation_processing,Long,2,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+TR-012,translation_processing,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-012,translation_processing,Long,3,4,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+TR-012,translation_processing,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-012,translation_processing,Long,4,5,9,9,0,1,0.0,1.0,0.0,0.111111,0.0,0.027778
+TR-013,translation_processing,Long,1,2,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-013,translation_processing,Long,1,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-013,translation_processing,Long,1,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-013,translation_processing,Long,1,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-013,translation_processing,Long,2,3,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-013,translation_processing,Long,2,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-013,translation_processing,Long,2,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-013,translation_processing,Long,3,4,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-013,translation_processing,Long,3,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-013,translation_processing,Long,4,5,9,9,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-016,aggregation_comparison,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-016,aggregation_comparison,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-016,aggregation_comparison,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-016,aggregation_comparison,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-016,aggregation_comparison,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-016,aggregation_comparison,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-016,aggregation_comparison,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-016,aggregation_comparison,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-016,aggregation_comparison,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-016,aggregation_comparison,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-017,aggregation_comparison,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-017,aggregation_comparison,Very Long,1,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+AC-017,aggregation_comparison,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-017,aggregation_comparison,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-017,aggregation_comparison,Very Long,2,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+AC-017,aggregation_comparison,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-017,aggregation_comparison,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-017,aggregation_comparison,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+AC-017,aggregation_comparison,Very Long,3,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+AC-017,aggregation_comparison,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-018,aggregation_comparison,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-018,aggregation_comparison,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-018,aggregation_comparison,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-018,aggregation_comparison,Very Long,1,5,12,12,0,1,0.0,2.0,0.0,0.166667,0.0,0.020833
+AC-018,aggregation_comparison,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-018,aggregation_comparison,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-018,aggregation_comparison,Very Long,2,5,12,12,0,1,0.0,2.0,0.0,0.166667,0.0,0.020833
+AC-018,aggregation_comparison,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-018,aggregation_comparison,Very Long,3,5,12,12,0,1,0.0,2.0,0.0,0.166667,0.0,0.020833
+AC-018,aggregation_comparison,Very Long,4,5,12,12,0,1,0.0,2.0,0.0,0.166667,0.0,0.020833
+AC-019,aggregation_comparison,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-019,aggregation_comparison,Very Long,1,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+AC-019,aggregation_comparison,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-019,aggregation_comparison,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-019,aggregation_comparison,Very Long,2,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+AC-019,aggregation_comparison,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-019,aggregation_comparison,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+AC-019,aggregation_comparison,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+AC-019,aggregation_comparison,Very Long,3,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+AC-019,aggregation_comparison,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-016,classification_formatting,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-016,classification_formatting,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-016,classification_formatting,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-016,classification_formatting,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-016,classification_formatting,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-016,classification_formatting,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-016,classification_formatting,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-016,classification_formatting,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-016,classification_formatting,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-016,classification_formatting,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-017,classification_formatting,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-017,classification_formatting,Very Long,1,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+CF-017,classification_formatting,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-017,classification_formatting,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-017,classification_formatting,Very Long,2,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+CF-017,classification_formatting,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-017,classification_formatting,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-017,classification_formatting,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+CF-017,classification_formatting,Very Long,3,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+CF-017,classification_formatting,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-018,classification_formatting,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-018,classification_formatting,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-018,classification_formatting,Very Long,1,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+CF-018,classification_formatting,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-018,classification_formatting,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-018,classification_formatting,Very Long,2,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+CF-018,classification_formatting,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-018,classification_formatting,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+CF-018,classification_formatting,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-018,classification_formatting,Very Long,4,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+CF-019,classification_formatting,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-019,classification_formatting,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-019,classification_formatting,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-019,classification_formatting,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-019,classification_formatting,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-019,classification_formatting,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-019,classification_formatting,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-019,classification_formatting,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-019,classification_formatting,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+CF-019,classification_formatting,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-016,database_structured,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-016,database_structured,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-016,database_structured,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-016,database_structured,Very Long,1,5,12,13,1,1,2.0,5.0,0.166667,0.416667,0.076923,0.096154
+DB-016,database_structured,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-016,database_structured,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-016,database_structured,Very Long,2,5,12,13,1,1,2.0,5.0,0.166667,0.416667,0.076923,0.096154
+DB-016,database_structured,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-016,database_structured,Very Long,3,5,12,13,1,1,2.0,5.0,0.166667,0.416667,0.076923,0.096154
+DB-016,database_structured,Very Long,4,5,12,13,1,1,2.0,5.0,0.166667,0.416667,0.076923,0.096154
+DB-017,database_structured,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-017,database_structured,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-017,database_structured,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-017,database_structured,Very Long,1,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DB-017,database_structured,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-017,database_structured,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-017,database_structured,Very Long,2,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DB-017,database_structured,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-017,database_structured,Very Long,3,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DB-017,database_structured,Very Long,4,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DB-018,database_structured,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-018,database_structured,Very Long,1,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DB-018,database_structured,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-018,database_structured,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-018,database_structured,Very Long,2,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DB-018,database_structured,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-018,database_structured,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-018,database_structured,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DB-018,database_structured,Very Long,3,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DB-018,database_structured,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-019,database_structured,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-019,database_structured,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-019,database_structured,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-019,database_structured,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-019,database_structured,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-019,database_structured,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-019,database_structured,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-019,database_structured,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-019,database_structured,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DB-019,database_structured,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-016,document_processing,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-016,document_processing,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-016,document_processing,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-016,document_processing,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-016,document_processing,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-016,document_processing,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-016,document_processing,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-016,document_processing,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-016,document_processing,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-016,document_processing,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-017,document_processing,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-017,document_processing,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-017,document_processing,Very Long,1,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DOC-017,document_processing,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-017,document_processing,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-017,document_processing,Very Long,2,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DOC-017,document_processing,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-017,document_processing,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DOC-017,document_processing,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-017,document_processing,Very Long,4,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DOC-018,document_processing,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-018,document_processing,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-018,document_processing,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-018,document_processing,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-018,document_processing,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-018,document_processing,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-018,document_processing,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-018,document_processing,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-018,document_processing,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-018,document_processing,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-019,document_processing,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-019,document_processing,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-019,document_processing,Very Long,1,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DOC-019,document_processing,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-019,document_processing,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-019,document_processing,Very Long,2,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DOC-019,document_processing,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-019,document_processing,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+DOC-019,document_processing,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+DOC-019,document_processing,Very Long,4,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-016,filtering_selection,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-016,filtering_selection,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-016,filtering_selection,Very Long,1,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-016,filtering_selection,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-016,filtering_selection,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-016,filtering_selection,Very Long,2,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-016,filtering_selection,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-016,filtering_selection,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-016,filtering_selection,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-016,filtering_selection,Very Long,4,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-017,filtering_selection,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-017,filtering_selection,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-017,filtering_selection,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-017,filtering_selection,Very Long,1,5,12,13,1,1,2.0,3.0,0.166667,0.25,0.076923,0.096154
+FS-017,filtering_selection,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-017,filtering_selection,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-017,filtering_selection,Very Long,2,5,12,13,1,1,2.0,3.0,0.166667,0.25,0.076923,0.096154
+FS-017,filtering_selection,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-017,filtering_selection,Very Long,3,5,12,13,1,1,2.0,3.0,0.166667,0.25,0.076923,0.096154
+FS-017,filtering_selection,Very Long,4,5,12,13,1,1,2.0,3.0,0.166667,0.25,0.076923,0.096154
+FS-018,filtering_selection,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-018,filtering_selection,Very Long,1,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-018,filtering_selection,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-018,filtering_selection,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-018,filtering_selection,Very Long,2,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-018,filtering_selection,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-018,filtering_selection,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-018,filtering_selection,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-018,filtering_selection,Very Long,3,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-018,filtering_selection,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-019,filtering_selection,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-019,filtering_selection,Very Long,1,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-019,filtering_selection,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-019,filtering_selection,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-019,filtering_selection,Very Long,2,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-019,filtering_selection,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-019,filtering_selection,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+FS-019,filtering_selection,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-019,filtering_selection,Very Long,3,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+FS-019,filtering_selection,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-016,information_retrieval,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-016,information_retrieval,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-016,information_retrieval,Very Long,1,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+IR-016,information_retrieval,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-016,information_retrieval,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-016,information_retrieval,Very Long,2,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+IR-016,information_retrieval,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-016,information_retrieval,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+IR-016,information_retrieval,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-016,information_retrieval,Very Long,4,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+IR-017,information_retrieval,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-017,information_retrieval,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-017,information_retrieval,Very Long,1,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+IR-017,information_retrieval,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-017,information_retrieval,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-017,information_retrieval,Very Long,2,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+IR-017,information_retrieval,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-017,information_retrieval,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+IR-017,information_retrieval,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-017,information_retrieval,Very Long,4,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+IR-018,information_retrieval,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-018,information_retrieval,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-018,information_retrieval,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-018,information_retrieval,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-018,information_retrieval,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-018,information_retrieval,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-018,information_retrieval,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-018,information_retrieval,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-018,information_retrieval,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-018,information_retrieval,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-019,information_retrieval,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-019,information_retrieval,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-019,information_retrieval,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-019,information_retrieval,Very Long,1,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+IR-019,information_retrieval,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-019,information_retrieval,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-019,information_retrieval,Very Long,2,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+IR-019,information_retrieval,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+IR-019,information_retrieval,Very Long,3,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+IR-019,information_retrieval,Very Long,4,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+MIX-016,mixed_multi_step,Very Long,1,2,13,12,1,1,1.0,1.0,0.076923,0.076923,0.076923,0.076923
+MIX-016,mixed_multi_step,Very Long,1,3,13,12,1,1,1.0,1.0,0.076923,0.076923,0.076923,0.076923
+MIX-016,mixed_multi_step,Very Long,1,4,13,12,1,1,1.0,1.0,0.076923,0.076923,0.076923,0.076923
+MIX-016,mixed_multi_step,Very Long,1,5,13,12,1,1,1.0,1.0,0.076923,0.076923,0.076923,0.076923
+MIX-016,mixed_multi_step,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-016,mixed_multi_step,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-016,mixed_multi_step,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-016,mixed_multi_step,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-016,mixed_multi_step,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-016,mixed_multi_step,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-017,mixed_multi_step,Very Long,1,2,13,12,1,1,1.0,1.0,0.076923,0.076923,0.076923,0.076923
+MIX-017,mixed_multi_step,Very Long,1,3,13,12,1,1,1.0,1.0,0.076923,0.076923,0.076923,0.076923
+MIX-017,mixed_multi_step,Very Long,1,4,13,12,1,1,1.0,1.0,0.076923,0.076923,0.076923,0.076923
+MIX-017,mixed_multi_step,Very Long,1,5,13,12,1,1,1.0,1.0,0.076923,0.076923,0.076923,0.076923
+MIX-017,mixed_multi_step,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-017,mixed_multi_step,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-017,mixed_multi_step,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-017,mixed_multi_step,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-017,mixed_multi_step,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-017,mixed_multi_step,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-018,mixed_multi_step,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-018,mixed_multi_step,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-018,mixed_multi_step,Very Long,1,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+MIX-018,mixed_multi_step,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-018,mixed_multi_step,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-018,mixed_multi_step,Very Long,2,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+MIX-018,mixed_multi_step,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-018,mixed_multi_step,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+MIX-018,mixed_multi_step,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+MIX-018,mixed_multi_step,Very Long,4,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+NUM-016,numerical_analysis,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-016,numerical_analysis,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-016,numerical_analysis,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-016,numerical_analysis,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-016,numerical_analysis,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-016,numerical_analysis,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-016,numerical_analysis,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-016,numerical_analysis,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-016,numerical_analysis,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-016,numerical_analysis,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-017,numerical_analysis,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-017,numerical_analysis,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-017,numerical_analysis,Very Long,1,4,12,12,0,1,0.0,2.0,0.0,0.166667,0.0,0.020833
+NUM-017,numerical_analysis,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-017,numerical_analysis,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-017,numerical_analysis,Very Long,2,4,12,12,0,1,0.0,2.0,0.0,0.166667,0.0,0.020833
+NUM-017,numerical_analysis,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-017,numerical_analysis,Very Long,3,4,12,12,0,1,0.0,2.0,0.0,0.166667,0.0,0.020833
+NUM-017,numerical_analysis,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-017,numerical_analysis,Very Long,4,5,12,12,0,1,0.0,2.0,0.0,0.166667,0.0,0.020833
+NUM-018,numerical_analysis,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-018,numerical_analysis,Very Long,1,3,12,13,1,1,2.0,2.0,0.166667,0.166667,0.076923,0.076923
+NUM-018,numerical_analysis,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-018,numerical_analysis,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-018,numerical_analysis,Very Long,2,3,12,13,1,1,2.0,2.0,0.166667,0.166667,0.076923,0.076923
+NUM-018,numerical_analysis,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-018,numerical_analysis,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+NUM-018,numerical_analysis,Very Long,3,4,13,12,1,1,1.0,1.0,0.076923,0.076923,0.076923,0.076923
+NUM-018,numerical_analysis,Very Long,3,5,13,12,1,1,1.0,1.0,0.076923,0.076923,0.076923,0.076923
+NUM-018,numerical_analysis,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-016,multi_source_synthesis,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-016,multi_source_synthesis,Very Long,1,3,12,13,1,1,2.0,2.0,0.166667,0.166667,0.076923,0.076923
+SYN-016,multi_source_synthesis,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-016,multi_source_synthesis,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-016,multi_source_synthesis,Very Long,2,3,12,13,1,1,2.0,2.0,0.166667,0.166667,0.076923,0.076923
+SYN-016,multi_source_synthesis,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-016,multi_source_synthesis,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-016,multi_source_synthesis,Very Long,3,4,13,12,1,1,1.0,1.0,0.076923,0.076923,0.076923,0.076923
+SYN-016,multi_source_synthesis,Very Long,3,5,13,12,1,1,1.0,1.0,0.076923,0.076923,0.076923,0.076923
+SYN-016,multi_source_synthesis,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-017,multi_source_synthesis,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-017,multi_source_synthesis,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-017,multi_source_synthesis,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-017,multi_source_synthesis,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-017,multi_source_synthesis,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-017,multi_source_synthesis,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-017,multi_source_synthesis,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-017,multi_source_synthesis,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-017,multi_source_synthesis,Very Long,3,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-017,multi_source_synthesis,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-018,multi_source_synthesis,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-018,multi_source_synthesis,Very Long,1,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+SYN-018,multi_source_synthesis,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-018,multi_source_synthesis,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-018,multi_source_synthesis,Very Long,2,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+SYN-018,multi_source_synthesis,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-018,multi_source_synthesis,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+SYN-018,multi_source_synthesis,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+SYN-018,multi_source_synthesis,Very Long,3,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+SYN-018,multi_source_synthesis,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-016,translation_processing,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-016,translation_processing,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-016,translation_processing,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-016,translation_processing,Very Long,1,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+TR-016,translation_processing,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-016,translation_processing,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-016,translation_processing,Very Long,2,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+TR-016,translation_processing,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-016,translation_processing,Very Long,3,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+TR-016,translation_processing,Very Long,4,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+TR-017,translation_processing,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-017,translation_processing,Very Long,1,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+TR-017,translation_processing,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-017,translation_processing,Very Long,1,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-017,translation_processing,Very Long,2,3,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+TR-017,translation_processing,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-017,translation_processing,Very Long,2,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-017,translation_processing,Very Long,3,4,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+TR-017,translation_processing,Very Long,3,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+TR-017,translation_processing,Very Long,4,5,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-018,translation_processing,Very Long,1,2,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-018,translation_processing,Very Long,1,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-018,translation_processing,Very Long,1,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-018,translation_processing,Very Long,1,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+TR-018,translation_processing,Very Long,2,3,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-018,translation_processing,Very Long,2,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-018,translation_processing,Very Long,2,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+TR-018,translation_processing,Very Long,3,4,12,12,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+TR-018,translation_processing,Very Long,3,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833
+TR-018,translation_processing,Very Long,4,5,12,12,0,1,0.0,1.0,0.0,0.083333,0.0,0.020833

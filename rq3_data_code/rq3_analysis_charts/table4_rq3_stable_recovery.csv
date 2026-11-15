@@ -1,0 +1,8 @@
+Condition,Runs,structural_deviation_n,structural_eligible_n,structural_right_censored_n,structural_recovered_n,structural_recovery_rate,structural_recovery_95CI,parameter_deviation_n,parameter_eligible_n,parameter_right_censored_n,parameter_recovered_n,parameter_recovery_rate,parameter_recovery_95CI
+Context Control,1000,251,251,0,251,1.0,"[1.000, 1.000]",298,270,28,258,0.9555555555555556,"[0.934, 0.975]"
+Benign Instruction,1000,264,264,0,264,1.0,"[1.000, 1.000]",316,283,33,276,0.9752650176678446,"[0.961, 0.993]"
+Direct,200,105,104,1,83,0.7980769230769231,"[0.719, 0.879]",157,140,17,58,0.4142857142857143,"[0.327, 0.495]"
+Contextual,200,118,118,0,78,0.6610169491525424,"[0.558, 0.759]",170,150,20,44,0.29333333333333333,"[0.235, 0.361]"
+Authority,200,133,132,1,87,0.6590909090909091,"[0.579, 0.724]",182,165,17,38,0.23030303030303031,"[0.159, 0.302]"
+Workflow,200,95,94,1,73,0.776595744680851,"[0.703, 0.871]",146,134,12,53,0.39552238805970147,"[0.331, 0.463]"
+Natural,200,174,174,0,91,0.5229885057471264,"[0.453, 0.603]",198,192,6,25,0.13020833333333334,"[0.089, 0.156]"

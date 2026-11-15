@@ -1,0 +1,801 @@
+model,task_id,repeat_a,repeat_b,workflow_family,length_group,alignment_cost,s_dev,p_dev,s_cdr,p_cdr,s_ddd,p_ddd
+glm-5.3-flash,AC-001,1,2,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-001,1,3,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-001,1,4,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-001,1,5,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-001,2,3,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-001,2,4,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-001,2,5,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-001,3,4,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-001,3,5,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-001,4,5,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-006,1,2,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-006,1,3,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-006,1,4,aggregation_comparison,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,AC-006,1,5,aggregation_comparison,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,AC-006,2,3,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-006,2,4,aggregation_comparison,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,AC-006,2,5,aggregation_comparison,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+glm-5.3-flash,AC-006,3,4,aggregation_comparison,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,AC-006,3,5,aggregation_comparison,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+glm-5.3-flash,AC-006,4,5,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-011,1,2,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-011,1,3,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-011,1,4,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-011,1,5,aggregation_comparison,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+glm-5.3-flash,AC-011,2,3,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-011,2,4,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-011,2,5,aggregation_comparison,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+glm-5.3-flash,AC-011,3,4,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-011,3,5,aggregation_comparison,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,AC-011,4,5,aggregation_comparison,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,AC-016,1,2,aggregation_comparison,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,AC-016,1,3,aggregation_comparison,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,AC-016,1,4,aggregation_comparison,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-016,1,5,aggregation_comparison,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-016,2,3,aggregation_comparison,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,AC-016,2,4,aggregation_comparison,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+glm-5.3-flash,AC-016,2,5,aggregation_comparison,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+glm-5.3-flash,AC-016,3,4,aggregation_comparison,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+glm-5.3-flash,AC-016,3,5,aggregation_comparison,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+glm-5.3-flash,AC-016,4,5,aggregation_comparison,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-001,1,2,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-001,1,3,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-001,1,4,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-001,1,5,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-001,2,3,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-001,2,4,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-001,2,5,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-001,3,4,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-001,3,5,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-001,4,5,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-006,1,2,classification_formatting,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-006,1,3,classification_formatting,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-006,1,4,classification_formatting,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,CF-006,1,5,classification_formatting,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,CF-006,2,3,classification_formatting,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-006,2,4,classification_formatting,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+glm-5.3-flash,CF-006,2,5,classification_formatting,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,CF-006,3,4,classification_formatting,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,CF-006,3,5,classification_formatting,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,CF-006,4,5,classification_formatting,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,CF-011,1,2,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-011,1,3,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-011,1,4,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-011,1,5,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-011,2,3,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-011,2,4,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-011,2,5,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-011,3,4,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-011,3,5,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-011,4,5,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-016,1,2,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-016,1,3,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-016,1,4,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-016,1,5,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-016,2,3,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-016,2,4,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-016,2,5,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-016,3,4,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-016,3,5,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,CF-016,4,5,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-001,1,2,database_structured,Short,0.25,True,True,0.25,0.25,1.0,1.0
+glm-5.3-flash,DB-001,1,3,database_structured,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-001,1,4,database_structured,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-001,1,5,database_structured,Short,0.25,False,True,0.0,0.25,0.0,1.0
+glm-5.3-flash,DB-001,2,3,database_structured,Short,0.25,True,True,0.25,0.25,1.0,1.0
+glm-5.3-flash,DB-001,2,4,database_structured,Short,0.25,True,True,0.25,0.25,1.0,1.0
+glm-5.3-flash,DB-001,2,5,database_structured,Short,0.25,True,True,0.25,0.25,1.0,1.0
+glm-5.3-flash,DB-001,3,4,database_structured,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-001,3,5,database_structured,Short,0.25,False,True,0.0,0.25,0.0,1.0
+glm-5.3-flash,DB-001,4,5,database_structured,Short,0.25,False,True,0.0,0.25,0.0,1.0
+glm-5.3-flash,DB-006,1,2,database_structured,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+glm-5.3-flash,DB-006,1,3,database_structured,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-006,1,4,database_structured,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,DB-006,1,5,database_structured,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-006,2,3,database_structured,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,DB-006,2,4,database_structured,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,DB-006,2,5,database_structured,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,DB-006,3,4,database_structured,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,DB-006,3,5,database_structured,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-006,4,5,database_structured,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,DB-011,1,2,database_structured,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+glm-5.3-flash,DB-011,1,3,database_structured,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-011,1,4,database_structured,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-011,1,5,database_structured,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-011,2,3,database_structured,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,DB-011,2,4,database_structured,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,DB-011,2,5,database_structured,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,DB-011,3,4,database_structured,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-011,3,5,database_structured,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-011,4,5,database_structured,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-016,1,2,database_structured,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,DB-016,1,3,database_structured,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-016,1,4,database_structured,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-016,1,5,database_structured,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-016,2,3,database_structured,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,DB-016,2,4,database_structured,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+glm-5.3-flash,DB-016,2,5,database_structured,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,DB-016,3,4,database_structured,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-016,3,5,database_structured,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DB-016,4,5,database_structured,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-001,1,2,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-001,1,3,document_processing,Short,0.25,False,True,0.0,0.25,0.0,1.0
+glm-5.3-flash,DOC-001,1,4,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-001,1,5,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-001,2,3,document_processing,Short,0.25,False,True,0.0,0.25,0.0,1.0
+glm-5.3-flash,DOC-001,2,4,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-001,2,5,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-001,3,4,document_processing,Short,0.25,True,True,0.25,0.25,1.0,1.0
+glm-5.3-flash,DOC-001,3,5,document_processing,Short,0.25,False,True,0.0,0.25,0.0,1.0
+glm-5.3-flash,DOC-001,4,5,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-006,1,2,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-006,1,3,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-006,1,4,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-006,1,5,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-006,2,3,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-006,2,4,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-006,2,5,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-006,3,4,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-006,3,5,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-006,4,5,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-011,1,2,document_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,DOC-011,1,3,document_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,DOC-011,1,4,document_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-011,1,5,document_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-011,2,3,document_processing,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+glm-5.3-flash,DOC-011,2,4,document_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,DOC-011,2,5,document_processing,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+glm-5.3-flash,DOC-011,3,4,document_processing,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+glm-5.3-flash,DOC-011,3,5,document_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,DOC-011,4,5,document_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-016,1,2,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-016,1,3,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-016,1,4,document_processing,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+glm-5.3-flash,DOC-016,1,5,document_processing,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+glm-5.3-flash,DOC-016,2,3,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,DOC-016,2,4,document_processing,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,DOC-016,2,5,document_processing,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,DOC-016,3,4,document_processing,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+glm-5.3-flash,DOC-016,3,5,document_processing,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,DOC-016,4,5,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-001,1,2,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-001,1,3,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-001,1,4,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-001,1,5,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-001,2,3,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-001,2,4,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-001,2,5,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-001,3,4,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-001,3,5,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-001,4,5,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-006,1,2,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-006,1,3,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-006,1,4,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-006,1,5,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-006,2,3,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-006,2,4,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-006,2,5,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-006,3,4,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-006,3,5,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-006,4,5,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-011,1,2,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-011,1,3,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-011,1,4,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-011,1,5,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-011,2,3,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-011,2,4,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-011,2,5,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-011,3,4,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-011,3,5,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-011,4,5,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-016,1,2,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-016,1,3,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-016,1,4,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-016,1,5,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-016,2,3,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-016,2,4,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-016,2,5,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-016,3,4,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-016,3,5,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,FS-016,4,5,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-001,1,2,information_retrieval,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-001,1,3,information_retrieval,Short,0.25,False,True,0.0,0.25,0.0,2.0
+glm-5.3-flash,IR-001,1,4,information_retrieval,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-001,1,5,information_retrieval,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-001,2,3,information_retrieval,Short,0.25,False,True,0.0,0.25,0.0,2.0
+glm-5.3-flash,IR-001,2,4,information_retrieval,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-001,2,5,information_retrieval,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-001,3,4,information_retrieval,Short,0.25,False,True,0.0,0.25,0.0,2.0
+glm-5.3-flash,IR-001,3,5,information_retrieval,Short,0.25,True,True,0.25,0.25,1.0,2.0
+glm-5.3-flash,IR-001,4,5,information_retrieval,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-006,1,2,information_retrieval,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+glm-5.3-flash,IR-006,1,3,information_retrieval,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-006,1,4,information_retrieval,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+glm-5.3-flash,IR-006,1,5,information_retrieval,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-006,2,3,information_retrieval,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,IR-006,2,4,information_retrieval,Medium,0.5,False,True,0.0,0.3333333333333333,0.0,4.0
+glm-5.3-flash,IR-006,2,5,information_retrieval,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,IR-006,3,4,information_retrieval,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,IR-006,3,5,information_retrieval,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-006,4,5,information_retrieval,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+glm-5.3-flash,IR-011,1,2,information_retrieval,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-011,1,3,information_retrieval,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-011,1,4,information_retrieval,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,IR-011,1,5,information_retrieval,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-011,2,3,information_retrieval,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-011,2,4,information_retrieval,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,IR-011,2,5,information_retrieval,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-011,3,4,information_retrieval,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,IR-011,3,5,information_retrieval,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-011,4,5,information_retrieval,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+glm-5.3-flash,IR-016,1,2,information_retrieval,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-016,1,3,information_retrieval,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,IR-016,1,4,information_retrieval,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-016,1,5,information_retrieval,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-016,2,3,information_retrieval,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,IR-016,2,4,information_retrieval,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-016,2,5,information_retrieval,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,IR-016,3,4,information_retrieval,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+glm-5.3-flash,IR-016,3,5,information_retrieval,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+glm-5.3-flash,IR-016,4,5,information_retrieval,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-001,1,2,mixed_multi_step,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-001,1,3,mixed_multi_step,Short,0.25,False,True,0.0,0.25,0.0,2.0
+glm-5.3-flash,MIX-001,1,4,mixed_multi_step,Short,0.25,False,True,0.0,0.25,0.0,2.0
+glm-5.3-flash,MIX-001,1,5,mixed_multi_step,Short,0.25,True,True,0.25,0.25,1.0,2.0
+glm-5.3-flash,MIX-001,2,3,mixed_multi_step,Short,0.25,True,True,0.25,0.25,1.0,2.0
+glm-5.3-flash,MIX-001,2,4,mixed_multi_step,Short,0.25,False,True,0.0,0.25,0.0,2.0
+glm-5.3-flash,MIX-001,2,5,mixed_multi_step,Short,0.25,False,True,0.0,0.25,0.0,2.0
+glm-5.3-flash,MIX-001,3,4,mixed_multi_step,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-001,3,5,mixed_multi_step,Short,0.25,True,True,0.25,0.25,1.0,2.0
+glm-5.3-flash,MIX-001,4,5,mixed_multi_step,Short,0.25,False,True,0.0,0.25,0.0,2.0
+glm-5.3-flash,MIX-006,1,2,mixed_multi_step,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-006,1,3,mixed_multi_step,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-006,1,4,mixed_multi_step,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-006,1,5,mixed_multi_step,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+glm-5.3-flash,MIX-006,2,3,mixed_multi_step,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-006,2,4,mixed_multi_step,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-006,2,5,mixed_multi_step,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+glm-5.3-flash,MIX-006,3,4,mixed_multi_step,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-006,3,5,mixed_multi_step,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,MIX-006,4,5,mixed_multi_step,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,MIX-011,1,2,mixed_multi_step,Long,0.25,False,True,0.0,0.1111111111111111,0.0,2.0
+glm-5.3-flash,MIX-011,1,3,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-011,1,4,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-011,1,5,mixed_multi_step,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,MIX-011,2,3,mixed_multi_step,Long,0.25,False,True,0.0,0.1111111111111111,0.0,2.0
+glm-5.3-flash,MIX-011,2,4,mixed_multi_step,Long,0.25,False,True,0.0,0.1111111111111111,0.0,2.0
+glm-5.3-flash,MIX-011,2,5,mixed_multi_step,Long,0.5,True,True,0.25,0.2222222222222222,1.0,7.0
+glm-5.3-flash,MIX-011,3,4,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-011,3,5,mixed_multi_step,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+glm-5.3-flash,MIX-011,4,5,mixed_multi_step,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+glm-5.3-flash,MIX-016,1,2,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-016,1,3,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-016,1,4,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-016,1,5,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-016,2,3,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-016,2,4,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-016,2,5,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-016,3,4,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-016,3,5,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,MIX-016,4,5,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-001,1,2,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-001,1,3,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-001,1,4,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-001,1,5,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-001,2,3,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-001,2,4,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-001,2,5,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-001,3,4,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-001,3,5,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-001,4,5,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-006,1,2,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-006,1,3,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-006,1,4,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-006,1,5,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-006,2,3,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-006,2,4,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-006,2,5,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-006,3,4,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-006,3,5,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-006,4,5,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-011,1,2,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-011,1,3,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-011,1,4,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-011,1,5,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-011,2,3,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-011,2,4,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-011,2,5,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-011,3,4,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-011,3,5,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-011,4,5,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-016,1,2,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-016,1,3,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-016,1,4,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-016,1,5,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-016,2,3,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-016,2,4,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-016,2,5,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-016,3,4,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-016,3,5,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,NUM-016,4,5,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-001,1,2,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-001,1,3,multi_source_synthesis,Short,0.25,False,True,0.0,0.25,0.0,2.0
+glm-5.3-flash,SYN-001,1,4,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-001,1,5,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-001,2,3,multi_source_synthesis,Short,0.25,True,True,0.25,0.25,1.0,2.0
+glm-5.3-flash,SYN-001,2,4,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-001,2,5,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-001,3,4,multi_source_synthesis,Short,0.25,False,True,0.0,0.25,0.0,2.0
+glm-5.3-flash,SYN-001,3,5,multi_source_synthesis,Short,0.25,True,True,0.25,0.25,1.0,2.0
+glm-5.3-flash,SYN-001,4,5,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-006,1,2,multi_source_synthesis,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,2.0
+glm-5.3-flash,SYN-006,1,3,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-006,1,4,multi_source_synthesis,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,2.0
+glm-5.3-flash,SYN-006,1,5,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-006,2,3,multi_source_synthesis,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,2.0
+glm-5.3-flash,SYN-006,2,4,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-006,2,5,multi_source_synthesis,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,2.0
+glm-5.3-flash,SYN-006,3,4,multi_source_synthesis,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,2.0
+glm-5.3-flash,SYN-006,3,5,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-006,4,5,multi_source_synthesis,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,2.0
+glm-5.3-flash,SYN-011,1,2,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-011,1,3,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-011,1,4,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-011,1,5,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-011,2,3,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-011,2,4,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-011,2,5,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-011,3,4,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-011,3,5,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-011,4,5,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-016,1,2,multi_source_synthesis,Very Long,0.5,False,True,0.0,0.1666666666666666,0.0,8.0
+glm-5.3-flash,SYN-016,1,3,multi_source_synthesis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-016,1,4,multi_source_synthesis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-016,1,5,multi_source_synthesis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-016,2,3,multi_source_synthesis,Very Long,0.5,False,True,0.0,0.1666666666666666,0.0,8.0
+glm-5.3-flash,SYN-016,2,4,multi_source_synthesis,Very Long,0.5,False,True,0.0,0.1666666666666666,0.0,8.0
+glm-5.3-flash,SYN-016,2,5,multi_source_synthesis,Very Long,0.5,False,True,0.0,0.1666666666666666,0.0,8.0
+glm-5.3-flash,SYN-016,3,4,multi_source_synthesis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-016,3,5,multi_source_synthesis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,SYN-016,4,5,multi_source_synthesis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-001,1,2,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-001,1,3,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-001,1,4,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-001,1,5,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-001,2,3,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-001,2,4,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-001,2,5,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-001,3,4,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-001,3,5,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-001,4,5,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-006,1,2,translation_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-006,1,3,translation_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-006,1,4,translation_processing,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+glm-5.3-flash,TR-006,1,5,translation_processing,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,TR-006,2,3,translation_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-006,2,4,translation_processing,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,TR-006,2,5,translation_processing,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+glm-5.3-flash,TR-006,3,4,translation_processing,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+glm-5.3-flash,TR-006,3,5,translation_processing,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+glm-5.3-flash,TR-006,4,5,translation_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-011,1,2,translation_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-011,1,3,translation_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,TR-011,1,4,translation_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-011,1,5,translation_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-011,2,3,translation_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+glm-5.3-flash,TR-011,2,4,translation_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-011,2,5,translation_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-011,3,4,translation_processing,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+glm-5.3-flash,TR-011,3,5,translation_processing,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+glm-5.3-flash,TR-011,4,5,translation_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-016,1,2,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-016,1,3,translation_processing,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,TR-016,1,4,translation_processing,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,TR-016,1,5,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-016,2,3,translation_processing,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,TR-016,2,4,translation_processing,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,TR-016,2,5,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+glm-5.3-flash,TR-016,3,4,translation_processing,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+glm-5.3-flash,TR-016,3,5,translation_processing,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+glm-5.3-flash,TR-016,4,5,translation_processing,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,AC-001,1,2,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-001,1,3,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-001,1,4,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-001,1,5,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-001,2,3,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-001,2,4,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-001,2,5,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-001,3,4,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-001,3,5,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-001,4,5,aggregation_comparison,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-006,1,2,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-006,1,3,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-006,1,4,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-006,1,5,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-006,2,3,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-006,2,4,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-006,2,5,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-006,3,4,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-006,3,5,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-006,4,5,aggregation_comparison,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-011,1,2,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-011,1,3,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-011,1,4,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-011,1,5,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-011,2,3,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-011,2,4,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-011,2,5,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-011,3,4,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-011,3,5,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-011,4,5,aggregation_comparison,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-016,1,2,aggregation_comparison,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-016,1,3,aggregation_comparison,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,AC-016,1,4,aggregation_comparison,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-016,1,5,aggregation_comparison,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-016,2,3,aggregation_comparison,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+gpt-5.4-mini,AC-016,2,4,aggregation_comparison,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-016,2,5,aggregation_comparison,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,AC-016,3,4,aggregation_comparison,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+gpt-5.4-mini,AC-016,3,5,aggregation_comparison,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,AC-016,4,5,aggregation_comparison,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-001,1,2,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-001,1,3,classification_formatting,Short,0.25,True,True,0.25,0.25,1.0,1.0
+gpt-5.4-mini,CF-001,1,4,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-001,1,5,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-001,2,3,classification_formatting,Short,0.25,False,True,0.0,0.25,0.0,1.0
+gpt-5.4-mini,CF-001,2,4,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-001,2,5,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-001,3,4,classification_formatting,Short,0.25,False,True,0.0,0.25,0.0,1.0
+gpt-5.4-mini,CF-001,3,5,classification_formatting,Short,0.25,True,True,0.25,0.25,1.0,1.0
+gpt-5.4-mini,CF-001,4,5,classification_formatting,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-006,1,2,classification_formatting,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-006,1,3,classification_formatting,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,CF-006,1,4,classification_formatting,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-006,1,5,classification_formatting,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,CF-006,2,3,classification_formatting,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,CF-006,2,4,classification_formatting,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-006,2,5,classification_formatting,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,CF-006,3,4,classification_formatting,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,CF-006,3,5,classification_formatting,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-006,4,5,classification_formatting,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,CF-011,1,2,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-011,1,3,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-011,1,4,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-011,1,5,classification_formatting,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,CF-011,2,3,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-011,2,4,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-011,2,5,classification_formatting,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+gpt-5.4-mini,CF-011,3,4,classification_formatting,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-011,3,5,classification_formatting,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+gpt-5.4-mini,CF-011,4,5,classification_formatting,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,CF-016,1,2,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-016,1,3,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-016,1,4,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-016,1,5,classification_formatting,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,CF-016,2,3,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-016,2,4,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-016,2,5,classification_formatting,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+gpt-5.4-mini,CF-016,3,4,classification_formatting,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,CF-016,3,5,classification_formatting,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,CF-016,4,5,classification_formatting,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,DB-001,1,2,database_structured,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-001,1,3,database_structured,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-001,1,4,database_structured,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-001,1,5,database_structured,Short,0.25,False,True,0.0,0.25,0.0,1.0
+gpt-5.4-mini,DB-001,2,3,database_structured,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-001,2,4,database_structured,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-001,2,5,database_structured,Short,0.25,False,True,0.0,0.25,0.0,1.0
+gpt-5.4-mini,DB-001,3,4,database_structured,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-001,3,5,database_structured,Short,0.25,False,True,0.0,0.25,0.0,1.0
+gpt-5.4-mini,DB-001,4,5,database_structured,Short,0.25,False,True,0.0,0.25,0.0,1.0
+gpt-5.4-mini,DB-006,1,2,database_structured,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-006,1,3,database_structured,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+gpt-5.4-mini,DB-006,1,4,database_structured,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-006,1,5,database_structured,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-006,2,3,database_structured,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,DB-006,2,4,database_structured,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-006,2,5,database_structured,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-006,3,4,database_structured,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,DB-006,3,5,database_structured,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+gpt-5.4-mini,DB-006,4,5,database_structured,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-011,1,2,database_structured,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,DB-011,1,3,database_structured,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-011,1,4,database_structured,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-011,1,5,database_structured,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-011,2,3,database_structured,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,DB-011,2,4,database_structured,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,DB-011,2,5,database_structured,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,DB-011,3,4,database_structured,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-011,3,5,database_structured,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-011,4,5,database_structured,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-016,1,2,database_structured,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-016,1,3,database_structured,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+gpt-5.4-mini,DB-016,1,4,database_structured,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-016,1,5,database_structured,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-016,2,3,database_structured,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,DB-016,2,4,database_structured,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-016,2,5,database_structured,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DB-016,3,4,database_structured,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,DB-016,3,5,database_structured,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+gpt-5.4-mini,DB-016,4,5,database_structured,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-001,1,2,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-001,1,3,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-001,1,4,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-001,1,5,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-001,2,3,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-001,2,4,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-001,2,5,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-001,3,4,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-001,3,5,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-001,4,5,document_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-006,1,2,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-006,1,3,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-006,1,4,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-006,1,5,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-006,2,3,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-006,2,4,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-006,2,5,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-006,3,4,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-006,3,5,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-006,4,5,document_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-011,1,2,document_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,DOC-011,1,3,document_processing,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+gpt-5.4-mini,DOC-011,1,4,document_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-011,1,5,document_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-011,2,3,document_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,DOC-011,2,4,document_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,DOC-011,2,5,document_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,DOC-011,3,4,document_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,DOC-011,3,5,document_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,DOC-011,4,5,document_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-016,1,2,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-016,1,3,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-016,1,4,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-016,1,5,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-016,2,3,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-016,2,4,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-016,2,5,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-016,3,4,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-016,3,5,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,DOC-016,4,5,document_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-001,1,2,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-001,1,3,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-001,1,4,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-001,1,5,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-001,2,3,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-001,2,4,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-001,2,5,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-001,3,4,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-001,3,5,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-001,4,5,filtering_selection,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-006,1,2,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-006,1,3,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-006,1,4,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-006,1,5,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-006,2,3,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-006,2,4,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-006,2,5,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-006,3,4,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-006,3,5,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-006,4,5,filtering_selection,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-011,1,2,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-011,1,3,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-011,1,4,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-011,1,5,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-011,2,3,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-011,2,4,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-011,2,5,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-011,3,4,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-011,3,5,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-011,4,5,filtering_selection,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-016,1,2,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-016,1,3,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-016,1,4,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-016,1,5,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-016,2,3,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-016,2,4,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-016,2,5,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-016,3,4,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-016,3,5,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,FS-016,4,5,filtering_selection,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-001,1,2,information_retrieval,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-001,1,3,information_retrieval,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-001,1,4,information_retrieval,Short,0.25,True,True,0.25,0.25,1.0,1.0
+gpt-5.4-mini,IR-001,1,5,information_retrieval,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-001,2,3,information_retrieval,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-001,2,4,information_retrieval,Short,0.25,True,True,0.25,0.25,1.0,1.0
+gpt-5.4-mini,IR-001,2,5,information_retrieval,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-001,3,4,information_retrieval,Short,0.25,True,True,0.25,0.25,1.0,1.0
+gpt-5.4-mini,IR-001,3,5,information_retrieval,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-001,4,5,information_retrieval,Short,0.25,False,True,0.0,0.25,0.0,1.0
+gpt-5.4-mini,IR-006,1,2,information_retrieval,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-006,1,3,information_retrieval,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-006,1,4,information_retrieval,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-006,1,5,information_retrieval,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,IR-006,2,3,information_retrieval,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-006,2,4,information_retrieval,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-006,2,5,information_retrieval,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,IR-006,3,4,information_retrieval,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-006,3,5,information_retrieval,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,IR-006,4,5,information_retrieval,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,IR-011,1,2,information_retrieval,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-011,1,3,information_retrieval,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-011,1,4,information_retrieval,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,IR-011,1,5,information_retrieval,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,IR-011,2,3,information_retrieval,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-011,2,4,information_retrieval,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,IR-011,2,5,information_retrieval,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+gpt-5.4-mini,IR-011,3,4,information_retrieval,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+gpt-5.4-mini,IR-011,3,5,information_retrieval,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,IR-011,4,5,information_retrieval,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-016,1,2,information_retrieval,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,IR-016,1,3,information_retrieval,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-016,1,4,information_retrieval,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,IR-016,1,5,information_retrieval,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-016,2,3,information_retrieval,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,IR-016,2,4,information_retrieval,Very Long,0.5,False,True,0.0,0.1666666666666666,0.0,8.0
+gpt-5.4-mini,IR-016,2,5,information_retrieval,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+gpt-5.4-mini,IR-016,3,4,information_retrieval,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,IR-016,3,5,information_retrieval,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,IR-016,4,5,information_retrieval,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,MIX-001,1,2,mixed_multi_step,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-001,1,3,mixed_multi_step,Short,0.25,False,True,0.0,0.25,0.0,2.0
+gpt-5.4-mini,MIX-001,1,4,mixed_multi_step,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-001,1,5,mixed_multi_step,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-001,2,3,mixed_multi_step,Short,0.25,True,True,0.25,0.25,1.0,2.0
+gpt-5.4-mini,MIX-001,2,4,mixed_multi_step,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-001,2,5,mixed_multi_step,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-001,3,4,mixed_multi_step,Short,0.25,True,True,0.25,0.25,1.0,2.0
+gpt-5.4-mini,MIX-001,3,5,mixed_multi_step,Short,0.25,True,True,0.25,0.25,1.0,2.0
+gpt-5.4-mini,MIX-001,4,5,mixed_multi_step,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-006,1,2,mixed_multi_step,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+gpt-5.4-mini,MIX-006,1,3,mixed_multi_step,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-006,1,4,mixed_multi_step,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-006,1,5,mixed_multi_step,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-006,2,3,mixed_multi_step,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,MIX-006,2,4,mixed_multi_step,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+gpt-5.4-mini,MIX-006,2,5,mixed_multi_step,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+gpt-5.4-mini,MIX-006,3,4,mixed_multi_step,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-006,3,5,mixed_multi_step,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-006,4,5,mixed_multi_step,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-011,1,2,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-011,1,3,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-011,1,4,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-011,1,5,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-011,2,3,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-011,2,4,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-011,2,5,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-011,3,4,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-011,3,5,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-011,4,5,mixed_multi_step,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-016,1,2,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-016,1,3,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-016,1,4,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-016,1,5,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-016,2,3,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-016,2,4,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-016,2,5,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-016,3,4,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-016,3,5,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,MIX-016,4,5,mixed_multi_step,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-001,1,2,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-001,1,3,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-001,1,4,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-001,1,5,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-001,2,3,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-001,2,4,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-001,2,5,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-001,3,4,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-001,3,5,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-001,4,5,numerical_analysis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-006,1,2,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-006,1,3,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-006,1,4,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-006,1,5,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-006,2,3,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-006,2,4,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-006,2,5,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-006,3,4,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-006,3,5,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-006,4,5,numerical_analysis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-011,1,2,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-011,1,3,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-011,1,4,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-011,1,5,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-011,2,3,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-011,2,4,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-011,2,5,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-011,3,4,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-011,3,5,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-011,4,5,numerical_analysis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-016,1,2,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-016,1,3,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-016,1,4,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-016,1,5,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-016,2,3,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-016,2,4,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-016,2,5,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-016,3,4,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-016,3,5,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,NUM-016,4,5,numerical_analysis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-001,1,2,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-001,1,3,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-001,1,4,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-001,1,5,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-001,2,3,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-001,2,4,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-001,2,5,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-001,3,4,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-001,3,5,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-001,4,5,multi_source_synthesis,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-006,1,2,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-006,1,3,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-006,1,4,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-006,1,5,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-006,2,3,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-006,2,4,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-006,2,5,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-006,3,4,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-006,3,5,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-006,4,5,multi_source_synthesis,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-011,1,2,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-011,1,3,multi_source_synthesis,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,SYN-011,1,4,multi_source_synthesis,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,SYN-011,1,5,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-011,2,3,multi_source_synthesis,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+gpt-5.4-mini,SYN-011,2,4,multi_source_synthesis,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,SYN-011,2,5,multi_source_synthesis,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-011,3,4,multi_source_synthesis,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,SYN-011,3,5,multi_source_synthesis,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+gpt-5.4-mini,SYN-011,4,5,multi_source_synthesis,Long,0.25,True,True,0.25,0.1111111111111111,1.0,1.0
+gpt-5.4-mini,SYN-016,1,2,multi_source_synthesis,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,SYN-016,1,3,multi_source_synthesis,Very Long,0.25,True,True,0.25,0.0833333333333333,1.0,1.0
+gpt-5.4-mini,SYN-016,1,4,multi_source_synthesis,Very Long,0.5,False,True,0.0,0.1666666666666666,0.0,8.0
+gpt-5.4-mini,SYN-016,1,5,multi_source_synthesis,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,SYN-016,2,3,multi_source_synthesis,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,SYN-016,2,4,multi_source_synthesis,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,2.0
+gpt-5.4-mini,SYN-016,2,5,multi_source_synthesis,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,SYN-016,3,4,multi_source_synthesis,Very Long,0.5,True,True,0.25,0.1666666666666666,1.0,8.0
+gpt-5.4-mini,SYN-016,3,5,multi_source_synthesis,Very Long,0.25,False,True,0.0,0.0833333333333333,0.0,1.0
+gpt-5.4-mini,SYN-016,4,5,multi_source_synthesis,Very Long,0.5,False,True,0.0,0.1666666666666666,0.0,8.0
+gpt-5.4-mini,TR-001,1,2,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-001,1,3,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-001,1,4,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-001,1,5,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-001,2,3,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-001,2,4,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-001,2,5,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-001,3,4,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-001,3,5,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-001,4,5,translation_processing,Short,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-006,1,2,translation_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-006,1,3,translation_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-006,1,4,translation_processing,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,TR-006,1,5,translation_processing,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,TR-006,2,3,translation_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-006,2,4,translation_processing,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,TR-006,2,5,translation_processing,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,TR-006,3,4,translation_processing,Medium,0.25,False,True,0.0,0.1666666666666666,0.0,1.0
+gpt-5.4-mini,TR-006,3,5,translation_processing,Medium,0.25,True,True,0.25,0.1666666666666666,1.0,1.0
+gpt-5.4-mini,TR-006,4,5,translation_processing,Medium,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-011,1,2,translation_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-011,1,3,translation_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-011,1,4,translation_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,TR-011,1,5,translation_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-011,2,3,translation_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-011,2,4,translation_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,TR-011,2,5,translation_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-011,3,4,translation_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,TR-011,3,5,translation_processing,Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-011,4,5,translation_processing,Long,0.25,False,True,0.0,0.1111111111111111,0.0,1.0
+gpt-5.4-mini,TR-016,1,2,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-016,1,3,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-016,1,4,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-016,1,5,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-016,2,3,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-016,2,4,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-016,2,5,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-016,3,4,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-016,3,5,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0
+gpt-5.4-mini,TR-016,4,5,translation_processing,Very Long,0.0,False,False,0.0,0.0,0.0,0.0

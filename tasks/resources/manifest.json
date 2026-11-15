@@ -1,0 +1,26 @@
+{
+  "version": "1.0-large-scale",
+  "generated_for": "PTTA large-scale RQ1/RQ2/RQ3 experiments",
+  "linked_resource_chains": 200,
+  "counts": {
+    "search_entries": 200,
+    "webpages": 200,
+    "documents": 200,
+    "files_total": 320,
+    "database_tables": 6,
+    "database_rows": {
+      "users": 80,
+      "tasks": 120,
+      "incidents": 100,
+      "metrics": 100,
+      "policies": 60,
+      "artifacts": 80
+    }
+  },
+  "dependency_chain": "seed file -> document_id -> document -> search_topic -> search -> webpage",
+  "notes": [
+    "All data are local and deterministic.",
+    "Seed files intentionally do not reveal the downstream search topic or URL.",
+    "The resources are designed to support later generation of a 200-candidate task pool."
+  ]
+}

@@ -1,0 +1,2 @@
+Condition,Pairs,structural_deviation,structural_deviation_95CI,parameter_deviation,parameter_deviation_95CI,structural_ddd,structural_ddd_95CI,parameter_ddd,parameter_ddd_95CI,structural_cdr,structural_cdr_95CI,parameter_cdr,parameter_cdr_95CI
+Clean–Clean,400,0.04,"[0.010, 0.095]",0.5525,"[0.430, 0.664]",0.04,"[0.012, 0.070]",0.7875,"[0.597, 0.992]",0.013333333333333332,"[0.003, 0.026]",0.20483333333333334,"[0.154, 0.255]"

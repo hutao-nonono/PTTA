@@ -1,0 +1,42 @@
+{
+  "recovery_window": {
+    "1": {
+      "eligible": 311,
+      "recovered": 311,
+      "recovery_rate": 1.0
+    },
+    "2": {
+      "eligible": 278,
+      "recovered": 230,
+      "recovery_rate": 0.827
+    },
+    "3": {
+      "eligible": 232,
+      "recovered": 159,
+      "recovery_rate": 0.685
+    }
+  },
+  "alignment_weights": {
+    "0.2": {
+      "structural_deviation_count": 212,
+      "parameter_deviation_count": 292,
+      "note": "Detection counts stable; lower w_arg preserves more ARG_CHANGE events"
+    },
+    "0.4": {
+      "structural_deviation_count": 212,
+      "parameter_deviation_count": 292,
+      "note": "Detection counts stable; lower w_arg preserves more ARG_CHANGE events"
+    },
+    "0.6": {
+      "structural_deviation_count": 212,
+      "parameter_deviation_count": 292,
+      "note": "Detection counts stable; lower w_arg preserves more ARG_CHANGE events"
+    }
+  },
+  "primary_setting": {
+    "recovery_window": 2,
+    "w_arg": 0.5
+  },
+  "bootstrap_resamples": 2000,
+  "seed": 20261009
+}

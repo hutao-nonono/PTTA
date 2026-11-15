@@ -1,0 +1,7 @@
+Outcome,Predictor,Unadjusted beta (95% CI),Unadjusted p,Adjusted beta (95% CI),Adjusted p
+Structural DDD,clean_length,"0.145 [0.098, 0.193]",<0.001,"-0.100 [-0.443, 0.242]",0.565
+Structural DDD,remaining_horizon,—,—,"0.473 [-0.180, 1.127]",0.156
+Structural DDD,attack_success,"-0.029 [-0.332, 0.275]",0.852,"-0.034 [-0.337, 0.269]",0.825
+Parameter DDD,clean_length,"0.435 [0.385, 0.484]",<0.001,"-0.143 [-0.477, 0.191]",0.401
+Parameter DDD,remaining_horizon,—,—,"1.113 [0.476, 1.750]",<0.001
+Parameter DDD,attack_success,"1.069 [0.761, 1.378]",<0.001,"1.059 [0.753, 1.365]",<0.001

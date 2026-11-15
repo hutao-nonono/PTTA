@@ -1,0 +1,3634 @@
+{
+  "artifacts": [
+    {
+      "id": "ART-001",
+      "owner": "User003",
+      "score": 55,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-002",
+      "owner": "User006",
+      "score": 60,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-003",
+      "owner": "User009",
+      "score": 65,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-004",
+      "owner": "User012",
+      "score": 70,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-005",
+      "owner": "User015",
+      "score": 75,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-006",
+      "owner": "User018",
+      "score": 80,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-007",
+      "owner": "User021",
+      "score": 85,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-008",
+      "owner": "User024",
+      "score": 90,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-009",
+      "owner": "User027",
+      "score": 95,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-010",
+      "owner": "User030",
+      "score": 100,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-011",
+      "owner": "User033",
+      "score": 54,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-012",
+      "owner": "User036",
+      "score": 59,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-013",
+      "owner": "User039",
+      "score": 64,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-014",
+      "owner": "User042",
+      "score": 69,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-015",
+      "owner": "User045",
+      "score": 74,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-016",
+      "owner": "User048",
+      "score": 79,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-017",
+      "owner": "User051",
+      "score": 84,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-018",
+      "owner": "User054",
+      "score": 89,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-019",
+      "owner": "User057",
+      "score": 94,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-020",
+      "owner": "User060",
+      "score": 99,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-021",
+      "owner": "User063",
+      "score": 53,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-022",
+      "owner": "User066",
+      "score": 58,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-023",
+      "owner": "User069",
+      "score": 63,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-024",
+      "owner": "User072",
+      "score": 68,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-025",
+      "owner": "User075",
+      "score": 73,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-026",
+      "owner": "User078",
+      "score": 78,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-027",
+      "owner": "User001",
+      "score": 83,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-028",
+      "owner": "User004",
+      "score": 88,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-029",
+      "owner": "User007",
+      "score": 93,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-030",
+      "owner": "User010",
+      "score": 98,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-031",
+      "owner": "User013",
+      "score": 52,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-032",
+      "owner": "User016",
+      "score": 57,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-033",
+      "owner": "User019",
+      "score": 62,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-034",
+      "owner": "User022",
+      "score": 67,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-035",
+      "owner": "User025",
+      "score": 72,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-036",
+      "owner": "User028",
+      "score": 77,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-037",
+      "owner": "User031",
+      "score": 82,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-038",
+      "owner": "User034",
+      "score": 87,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-039",
+      "owner": "User037",
+      "score": 92,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-040",
+      "owner": "User040",
+      "score": 97,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-041",
+      "owner": "User043",
+      "score": 51,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-042",
+      "owner": "User046",
+      "score": 56,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-043",
+      "owner": "User049",
+      "score": 61,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-044",
+      "owner": "User052",
+      "score": 66,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-045",
+      "owner": "User055",
+      "score": 71,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-046",
+      "owner": "User058",
+      "score": 76,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-047",
+      "owner": "User061",
+      "score": 81,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-048",
+      "owner": "User064",
+      "score": 86,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-049",
+      "owner": "User067",
+      "score": 91,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-050",
+      "owner": "User070",
+      "score": 96,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-051",
+      "owner": "User073",
+      "score": 50,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-052",
+      "owner": "User076",
+      "score": 55,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-053",
+      "owner": "User079",
+      "score": 60,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-054",
+      "owner": "User002",
+      "score": 65,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-055",
+      "owner": "User005",
+      "score": 70,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-056",
+      "owner": "User008",
+      "score": 75,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-057",
+      "owner": "User011",
+      "score": 80,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-058",
+      "owner": "User014",
+      "score": 85,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-059",
+      "owner": "User017",
+      "score": 90,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-060",
+      "owner": "User020",
+      "score": 95,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-061",
+      "owner": "User023",
+      "score": 100,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-062",
+      "owner": "User026",
+      "score": 54,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-063",
+      "owner": "User029",
+      "score": 59,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-064",
+      "owner": "User032",
+      "score": 64,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-065",
+      "owner": "User035",
+      "score": 69,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-066",
+      "owner": "User038",
+      "score": 74,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-067",
+      "owner": "User041",
+      "score": 79,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-068",
+      "owner": "User044",
+      "score": 84,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-069",
+      "owner": "User047",
+      "score": 89,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-070",
+      "owner": "User050",
+      "score": 94,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-071",
+      "owner": "User053",
+      "score": 99,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-072",
+      "owner": "User056",
+      "score": 53,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-073",
+      "owner": "User059",
+      "score": 58,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-074",
+      "owner": "User062",
+      "score": 63,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-075",
+      "owner": "User065",
+      "score": 68,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-076",
+      "owner": "User068",
+      "score": 73,
+      "type": "report",
+      "validated": true
+    },
+    {
+      "id": "ART-077",
+      "owner": "User071",
+      "score": 78,
+      "type": "summary",
+      "validated": false
+    },
+    {
+      "id": "ART-078",
+      "owner": "User074",
+      "score": 83,
+      "type": "dataset",
+      "validated": true
+    },
+    {
+      "id": "ART-079",
+      "owner": "User077",
+      "score": 88,
+      "type": "translation",
+      "validated": false
+    },
+    {
+      "id": "ART-080",
+      "owner": "User080",
+      "score": 93,
+      "type": "report",
+      "validated": true
+    }
+  ],
+  "incidents": [
+    {
+      "category": "agent_security",
+      "id": "INC-001",
+      "resolved": true,
+      "score": 19,
+      "severity": "low"
+    },
+    {
+      "category": "prompt_injection",
+      "id": "INC-002",
+      "resolved": false,
+      "score": 28,
+      "severity": "medium"
+    },
+    {
+      "category": "tool_monitoring",
+      "id": "INC-003",
+      "resolved": true,
+      "score": 37,
+      "severity": "high"
+    },
+    {
+      "category": "recovery_analysis",
+      "id": "INC-004",
+      "resolved": false,
+      "score": 46,
+      "severity": "low"
+    },
+    {
+      "category": "argument_security",
+      "id": "INC-005",
+      "resolved": true,
+      "score": 55,
+      "severity": "medium"
+    },
+    {
+      "category": "workflow_safety",
+      "id": "INC-006",
+      "resolved": false,
+      "score": 64,
+      "severity": "high"
+    },
+    {
+      "category": "data_validation",
+      "id": "INC-007",
+      "resolved": true,
+      "score": 73,
+      "severity": "low"
+    },
+    {
+      "category": "multi_source_synthesis",
+      "id": "INC-008",
+      "resolved": false,
+      "score": 82,
+      "severity": "medium"
+    },
+    {
+      "category": "risk_scoring",
+      "id": "INC-009",
+      "resolved": true,
+      "score": 91,
+      "severity": "high"
+    },
+    {
+      "category": "policy_compliance",
+      "id": "INC-010",
+      "resolved": false,
+      "score": 100,
+      "severity": "low"
+    },
+    {
+      "category": "agent_security",
+      "id": "INC-011",
+      "resolved": true,
+      "score": 18,
+      "severity": "medium"
+    },
+    {
+      "category": "prompt_injection",
+      "id": "INC-012",
+      "resolved": false,
+      "score": 27,
+      "severity": "high"
+    },
+    {
+      "category": "tool_monitoring",
+      "id": "INC-013",
+      "resolved": true,
+      "score": 36,
+      "severity": "low"
+    },
+    {
+      "category": "recovery_analysis",
+      "id": "INC-014",
+      "resolved": false,
+      "score": 45,
+      "severity": "medium"
+    },
+    {
+      "category": "argument_security",
+      "id": "INC-015",
+      "resolved": true,
+      "score": 54,
+      "severity": "high"
+    },
+    {
+      "category": "workflow_safety",
+      "id": "INC-016",
+      "resolved": false,
+      "score": 63,
+      "severity": "low"
+    },
+    {
+      "category": "data_validation",
+      "id": "INC-017",
+      "resolved": true,
+      "score": 72,
+      "severity": "medium"
+    },
+    {
+      "category": "multi_source_synthesis",
+      "id": "INC-018",
+      "resolved": false,
+      "score": 81,
+      "severity": "high"
+    },
+    {
+      "category": "risk_scoring",
+      "id": "INC-019",
+      "resolved": true,
+      "score": 90,
+      "severity": "low"
+    },
+    {
+      "category": "policy_compliance",
+      "id": "INC-020",
+      "resolved": false,
+      "score": 99,
+      "severity": "medium"
+    },
+    {
+      "category": "agent_security",
+      "id": "INC-021",
+      "resolved": true,
+      "score": 17,
+      "severity": "high"
+    },
+    {
+      "category": "prompt_injection",
+      "id": "INC-022",
+      "resolved": false,
+      "score": 26,
+      "severity": "low"
+    },
+    {
+      "category": "tool_monitoring",
+      "id": "INC-023",
+      "resolved": true,
+      "score": 35,
+      "severity": "medium"
+    },
+    {
+      "category": "recovery_analysis",
+      "id": "INC-024",
+      "resolved": false,
+      "score": 44,
+      "severity": "high"
+    },
+    {
+      "category": "argument_security",
+      "id": "INC-025",
+      "resolved": true,
+      "score": 53,
+      "severity": "low"
+    },
+    {
+      "category": "workflow_safety",
+      "id": "INC-026",
+      "resolved": false,
+      "score": 62,
+      "severity": "medium"
+    },
+    {
+      "category": "data_validation",
+      "id": "INC-027",
+      "resolved": true,
+      "score": 71,
+      "severity": "high"
+    },
+    {
+      "category": "multi_source_synthesis",
+      "id": "INC-028",
+      "resolved": false,
+      "score": 80,
+      "severity": "low"
+    },
+    {
+      "category": "risk_scoring",
+      "id": "INC-029",
+      "resolved": true,
+      "score": 89,
+      "severity": "medium"
+    },
+    {
+      "category": "policy_compliance",
+      "id": "INC-030",
+      "resolved": false,
+      "score": 98,
+      "severity": "high"
+    },
+    {
+      "category": "agent_security",
+      "id": "INC-031",
+      "resolved": true,
+      "score": 16,
+      "severity": "low"
+    },
+    {
+      "category": "prompt_injection",
+      "id": "INC-032",
+      "resolved": false,
+      "score": 25,
+      "severity": "medium"
+    },
+    {
+      "category": "tool_monitoring",
+      "id": "INC-033",
+      "resolved": true,
+      "score": 34,
+      "severity": "high"
+    },
+    {
+      "category": "recovery_analysis",
+      "id": "INC-034",
+      "resolved": false,
+      "score": 43,
+      "severity": "low"
+    },
+    {
+      "category": "argument_security",
+      "id": "INC-035",
+      "resolved": true,
+      "score": 52,
+      "severity": "medium"
+    },
+    {
+      "category": "workflow_safety",
+      "id": "INC-036",
+      "resolved": false,
+      "score": 61,
+      "severity": "high"
+    },
+    {
+      "category": "data_validation",
+      "id": "INC-037",
+      "resolved": true,
+      "score": 70,
+      "severity": "low"
+    },
+    {
+      "category": "multi_source_synthesis",
+      "id": "INC-038",
+      "resolved": false,
+      "score": 79,
+      "severity": "medium"
+    },
+    {
+      "category": "risk_scoring",
+      "id": "INC-039",
+      "resolved": true,
+      "score": 88,
+      "severity": "high"
+    },
+    {
+      "category": "policy_compliance",
+      "id": "INC-040",
+      "resolved": false,
+      "score": 97,
+      "severity": "low"
+    },
+    {
+      "category": "agent_security",
+      "id": "INC-041",
+      "resolved": true,
+      "score": 15,
+      "severity": "medium"
+    },
+    {
+      "category": "prompt_injection",
+      "id": "INC-042",
+      "resolved": false,
+      "score": 24,
+      "severity": "high"
+    },
+    {
+      "category": "tool_monitoring",
+      "id": "INC-043",
+      "resolved": true,
+      "score": 33,
+      "severity": "low"
+    },
+    {
+      "category": "recovery_analysis",
+      "id": "INC-044",
+      "resolved": false,
+      "score": 42,
+      "severity": "medium"
+    },
+    {
+      "category": "argument_security",
+      "id": "INC-045",
+      "resolved": true,
+      "score": 51,
+      "severity": "high"
+    },
+    {
+      "category": "workflow_safety",
+      "id": "INC-046",
+      "resolved": false,
+      "score": 60,
+      "severity": "low"
+    },
+    {
+      "category": "data_validation",
+      "id": "INC-047",
+      "resolved": true,
+      "score": 69,
+      "severity": "medium"
+    },
+    {
+      "category": "multi_source_synthesis",
+      "id": "INC-048",
+      "resolved": false,
+      "score": 78,
+      "severity": "high"
+    },
+    {
+      "category": "risk_scoring",
+      "id": "INC-049",
+      "resolved": true,
+      "score": 87,
+      "severity": "low"
+    },
+    {
+      "category": "policy_compliance",
+      "id": "INC-050",
+      "resolved": false,
+      "score": 96,
+      "severity": "medium"
+    },
+    {
+      "category": "agent_security",
+      "id": "INC-051",
+      "resolved": true,
+      "score": 14,
+      "severity": "high"
+    },
+    {
+      "category": "prompt_injection",
+      "id": "INC-052",
+      "resolved": false,
+      "score": 23,
+      "severity": "low"
+    },
+    {
+      "category": "tool_monitoring",
+      "id": "INC-053",
+      "resolved": true,
+      "score": 32,
+      "severity": "medium"
+    },
+    {
+      "category": "recovery_analysis",
+      "id": "INC-054",
+      "resolved": false,
+      "score": 41,
+      "severity": "high"
+    },
+    {
+      "category": "argument_security",
+      "id": "INC-055",
+      "resolved": true,
+      "score": 50,
+      "severity": "low"
+    },
+    {
+      "category": "workflow_safety",
+      "id": "INC-056",
+      "resolved": false,
+      "score": 59,
+      "severity": "medium"
+    },
+    {
+      "category": "data_validation",
+      "id": "INC-057",
+      "resolved": true,
+      "score": 68,
+      "severity": "high"
+    },
+    {
+      "category": "multi_source_synthesis",
+      "id": "INC-058",
+      "resolved": false,
+      "score": 77,
+      "severity": "low"
+    },
+    {
+      "category": "risk_scoring",
+      "id": "INC-059",
+      "resolved": true,
+      "score": 86,
+      "severity": "medium"
+    },
+    {
+      "category": "policy_compliance",
+      "id": "INC-060",
+      "resolved": false,
+      "score": 95,
+      "severity": "high"
+    },
+    {
+      "category": "agent_security",
+      "id": "INC-061",
+      "resolved": true,
+      "score": 13,
+      "severity": "low"
+    },
+    {
+      "category": "prompt_injection",
+      "id": "INC-062",
+      "resolved": false,
+      "score": 22,
+      "severity": "medium"
+    },
+    {
+      "category": "tool_monitoring",
+      "id": "INC-063",
+      "resolved": true,
+      "score": 31,
+      "severity": "high"
+    },
+    {
+      "category": "recovery_analysis",
+      "id": "INC-064",
+      "resolved": false,
+      "score": 40,
+      "severity": "low"
+    },
+    {
+      "category": "argument_security",
+      "id": "INC-065",
+      "resolved": true,
+      "score": 49,
+      "severity": "medium"
+    },
+    {
+      "category": "workflow_safety",
+      "id": "INC-066",
+      "resolved": false,
+      "score": 58,
+      "severity": "high"
+    },
+    {
+      "category": "data_validation",
+      "id": "INC-067",
+      "resolved": true,
+      "score": 67,
+      "severity": "low"
+    },
+    {
+      "category": "multi_source_synthesis",
+      "id": "INC-068",
+      "resolved": false,
+      "score": 76,
+      "severity": "medium"
+    },
+    {
+      "category": "risk_scoring",
+      "id": "INC-069",
+      "resolved": true,
+      "score": 85,
+      "severity": "high"
+    },
+    {
+      "category": "policy_compliance",
+      "id": "INC-070",
+      "resolved": false,
+      "score": 94,
+      "severity": "low"
+    },
+    {
+      "category": "agent_security",
+      "id": "INC-071",
+      "resolved": true,
+      "score": 12,
+      "severity": "medium"
+    },
+    {
+      "category": "prompt_injection",
+      "id": "INC-072",
+      "resolved": false,
+      "score": 21,
+      "severity": "high"
+    },
+    {
+      "category": "tool_monitoring",
+      "id": "INC-073",
+      "resolved": true,
+      "score": 30,
+      "severity": "low"
+    },
+    {
+      "category": "recovery_analysis",
+      "id": "INC-074",
+      "resolved": false,
+      "score": 39,
+      "severity": "medium"
+    },
+    {
+      "category": "argument_security",
+      "id": "INC-075",
+      "resolved": true,
+      "score": 48,
+      "severity": "high"
+    },
+    {
+      "category": "workflow_safety",
+      "id": "INC-076",
+      "resolved": false,
+      "score": 57,
+      "severity": "low"
+    },
+    {
+      "category": "data_validation",
+      "id": "INC-077",
+      "resolved": true,
+      "score": 66,
+      "severity": "medium"
+    },
+    {
+      "category": "multi_source_synthesis",
+      "id": "INC-078",
+      "resolved": false,
+      "score": 75,
+      "severity": "high"
+    },
+    {
+      "category": "risk_scoring",
+      "id": "INC-079",
+      "resolved": true,
+      "score": 84,
+      "severity": "low"
+    },
+    {
+      "category": "policy_compliance",
+      "id": "INC-080",
+      "resolved": false,
+      "score": 93,
+      "severity": "medium"
+    },
+    {
+      "category": "agent_security",
+      "id": "INC-081",
+      "resolved": true,
+      "score": 11,
+      "severity": "high"
+    },
+    {
+      "category": "prompt_injection",
+      "id": "INC-082",
+      "resolved": false,
+      "score": 20,
+      "severity": "low"
+    },
+    {
+      "category": "tool_monitoring",
+      "id": "INC-083",
+      "resolved": true,
+      "score": 29,
+      "severity": "medium"
+    },
+    {
+      "category": "recovery_analysis",
+      "id": "INC-084",
+      "resolved": false,
+      "score": 38,
+      "severity": "high"
+    },
+    {
+      "category": "argument_security",
+      "id": "INC-085",
+      "resolved": true,
+      "score": 47,
+      "severity": "low"
+    },
+    {
+      "category": "workflow_safety",
+      "id": "INC-086",
+      "resolved": false,
+      "score": 56,
+      "severity": "medium"
+    },
+    {
+      "category": "data_validation",
+      "id": "INC-087",
+      "resolved": true,
+      "score": 65,
+      "severity": "high"
+    },
+    {
+      "category": "multi_source_synthesis",
+      "id": "INC-088",
+      "resolved": false,
+      "score": 74,
+      "severity": "low"
+    },
+    {
+      "category": "risk_scoring",
+      "id": "INC-089",
+      "resolved": true,
+      "score": 83,
+      "severity": "medium"
+    },
+    {
+      "category": "policy_compliance",
+      "id": "INC-090",
+      "resolved": false,
+      "score": 92,
+      "severity": "high"
+    },
+    {
+      "category": "agent_security",
+      "id": "INC-091",
+      "resolved": true,
+      "score": 10,
+      "severity": "low"
+    },
+    {
+      "category": "prompt_injection",
+      "id": "INC-092",
+      "resolved": false,
+      "score": 19,
+      "severity": "medium"
+    },
+    {
+      "category": "tool_monitoring",
+      "id": "INC-093",
+      "resolved": true,
+      "score": 28,
+      "severity": "high"
+    },
+    {
+      "category": "recovery_analysis",
+      "id": "INC-094",
+      "resolved": false,
+      "score": 37,
+      "severity": "low"
+    },
+    {
+      "category": "argument_security",
+      "id": "INC-095",
+      "resolved": true,
+      "score": 46,
+      "severity": "medium"
+    },
+    {
+      "category": "workflow_safety",
+      "id": "INC-096",
+      "resolved": false,
+      "score": 55,
+      "severity": "high"
+    },
+    {
+      "category": "data_validation",
+      "id": "INC-097",
+      "resolved": true,
+      "score": 64,
+      "severity": "low"
+    },
+    {
+      "category": "multi_source_synthesis",
+      "id": "INC-098",
+      "resolved": false,
+      "score": 73,
+      "severity": "medium"
+    },
+    {
+      "category": "risk_scoring",
+      "id": "INC-099",
+      "resolved": true,
+      "score": 82,
+      "severity": "high"
+    },
+    {
+      "category": "policy_compliance",
+      "id": "INC-100",
+      "resolved": false,
+      "score": 91,
+      "severity": "low"
+    }
+  ],
+  "metrics": [
+    {
+      "family": "agent_security",
+      "id": "MET-001",
+      "metric": "risk",
+      "value": 0.23
+    },
+    {
+      "family": "prompt_injection",
+      "id": "MET-002",
+      "metric": "coverage",
+      "value": 0.36
+    },
+    {
+      "family": "tool_monitoring",
+      "id": "MET-003",
+      "metric": "recovery",
+      "value": 0.49
+    },
+    {
+      "family": "recovery_analysis",
+      "id": "MET-004",
+      "metric": "latency",
+      "value": 0.62
+    },
+    {
+      "family": "argument_security",
+      "id": "MET-005",
+      "metric": "risk",
+      "value": 0.75
+    },
+    {
+      "family": "workflow_safety",
+      "id": "MET-006",
+      "metric": "coverage",
+      "value": 0.88
+    },
+    {
+      "family": "data_validation",
+      "id": "MET-007",
+      "metric": "recovery",
+      "value": 0.11
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": "MET-008",
+      "metric": "latency",
+      "value": 0.24
+    },
+    {
+      "family": "risk_scoring",
+      "id": "MET-009",
+      "metric": "risk",
+      "value": 0.37
+    },
+    {
+      "family": "policy_compliance",
+      "id": "MET-010",
+      "metric": "coverage",
+      "value": 0.5
+    },
+    {
+      "family": "agent_security",
+      "id": "MET-011",
+      "metric": "recovery",
+      "value": 0.63
+    },
+    {
+      "family": "prompt_injection",
+      "id": "MET-012",
+      "metric": "latency",
+      "value": 0.76
+    },
+    {
+      "family": "tool_monitoring",
+      "id": "MET-013",
+      "metric": "risk",
+      "value": 0.89
+    },
+    {
+      "family": "recovery_analysis",
+      "id": "MET-014",
+      "metric": "coverage",
+      "value": 0.12
+    },
+    {
+      "family": "argument_security",
+      "id": "MET-015",
+      "metric": "recovery",
+      "value": 0.25
+    },
+    {
+      "family": "workflow_safety",
+      "id": "MET-016",
+      "metric": "latency",
+      "value": 0.38
+    },
+    {
+      "family": "data_validation",
+      "id": "MET-017",
+      "metric": "risk",
+      "value": 0.51
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": "MET-018",
+      "metric": "coverage",
+      "value": 0.64
+    },
+    {
+      "family": "risk_scoring",
+      "id": "MET-019",
+      "metric": "recovery",
+      "value": 0.77
+    },
+    {
+      "family": "policy_compliance",
+      "id": "MET-020",
+      "metric": "latency",
+      "value": 0.9
+    },
+    {
+      "family": "agent_security",
+      "id": "MET-021",
+      "metric": "risk",
+      "value": 0.13
+    },
+    {
+      "family": "prompt_injection",
+      "id": "MET-022",
+      "metric": "coverage",
+      "value": 0.26
+    },
+    {
+      "family": "tool_monitoring",
+      "id": "MET-023",
+      "metric": "recovery",
+      "value": 0.39
+    },
+    {
+      "family": "recovery_analysis",
+      "id": "MET-024",
+      "metric": "latency",
+      "value": 0.52
+    },
+    {
+      "family": "argument_security",
+      "id": "MET-025",
+      "metric": "risk",
+      "value": 0.65
+    },
+    {
+      "family": "workflow_safety",
+      "id": "MET-026",
+      "metric": "coverage",
+      "value": 0.78
+    },
+    {
+      "family": "data_validation",
+      "id": "MET-027",
+      "metric": "recovery",
+      "value": 0.91
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": "MET-028",
+      "metric": "latency",
+      "value": 0.14
+    },
+    {
+      "family": "risk_scoring",
+      "id": "MET-029",
+      "metric": "risk",
+      "value": 0.27
+    },
+    {
+      "family": "policy_compliance",
+      "id": "MET-030",
+      "metric": "coverage",
+      "value": 0.4
+    },
+    {
+      "family": "agent_security",
+      "id": "MET-031",
+      "metric": "recovery",
+      "value": 0.53
+    },
+    {
+      "family": "prompt_injection",
+      "id": "MET-032",
+      "metric": "latency",
+      "value": 0.66
+    },
+    {
+      "family": "tool_monitoring",
+      "id": "MET-033",
+      "metric": "risk",
+      "value": 0.79
+    },
+    {
+      "family": "recovery_analysis",
+      "id": "MET-034",
+      "metric": "coverage",
+      "value": 0.92
+    },
+    {
+      "family": "argument_security",
+      "id": "MET-035",
+      "metric": "recovery",
+      "value": 0.15
+    },
+    {
+      "family": "workflow_safety",
+      "id": "MET-036",
+      "metric": "latency",
+      "value": 0.28
+    },
+    {
+      "family": "data_validation",
+      "id": "MET-037",
+      "metric": "risk",
+      "value": 0.41
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": "MET-038",
+      "metric": "coverage",
+      "value": 0.54
+    },
+    {
+      "family": "risk_scoring",
+      "id": "MET-039",
+      "metric": "recovery",
+      "value": 0.67
+    },
+    {
+      "family": "policy_compliance",
+      "id": "MET-040",
+      "metric": "latency",
+      "value": 0.8
+    },
+    {
+      "family": "agent_security",
+      "id": "MET-041",
+      "metric": "risk",
+      "value": 0.93
+    },
+    {
+      "family": "prompt_injection",
+      "id": "MET-042",
+      "metric": "coverage",
+      "value": 0.16
+    },
+    {
+      "family": "tool_monitoring",
+      "id": "MET-043",
+      "metric": "recovery",
+      "value": 0.29
+    },
+    {
+      "family": "recovery_analysis",
+      "id": "MET-044",
+      "metric": "latency",
+      "value": 0.42
+    },
+    {
+      "family": "argument_security",
+      "id": "MET-045",
+      "metric": "risk",
+      "value": 0.55
+    },
+    {
+      "family": "workflow_safety",
+      "id": "MET-046",
+      "metric": "coverage",
+      "value": 0.68
+    },
+    {
+      "family": "data_validation",
+      "id": "MET-047",
+      "metric": "recovery",
+      "value": 0.81
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": "MET-048",
+      "metric": "latency",
+      "value": 0.94
+    },
+    {
+      "family": "risk_scoring",
+      "id": "MET-049",
+      "metric": "risk",
+      "value": 0.17
+    },
+    {
+      "family": "policy_compliance",
+      "id": "MET-050",
+      "metric": "coverage",
+      "value": 0.3
+    },
+    {
+      "family": "agent_security",
+      "id": "MET-051",
+      "metric": "recovery",
+      "value": 0.43
+    },
+    {
+      "family": "prompt_injection",
+      "id": "MET-052",
+      "metric": "latency",
+      "value": 0.56
+    },
+    {
+      "family": "tool_monitoring",
+      "id": "MET-053",
+      "metric": "risk",
+      "value": 0.69
+    },
+    {
+      "family": "recovery_analysis",
+      "id": "MET-054",
+      "metric": "coverage",
+      "value": 0.82
+    },
+    {
+      "family": "argument_security",
+      "id": "MET-055",
+      "metric": "recovery",
+      "value": 0.95
+    },
+    {
+      "family": "workflow_safety",
+      "id": "MET-056",
+      "metric": "latency",
+      "value": 0.18
+    },
+    {
+      "family": "data_validation",
+      "id": "MET-057",
+      "metric": "risk",
+      "value": 0.31
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": "MET-058",
+      "metric": "coverage",
+      "value": 0.44
+    },
+    {
+      "family": "risk_scoring",
+      "id": "MET-059",
+      "metric": "recovery",
+      "value": 0.57
+    },
+    {
+      "family": "policy_compliance",
+      "id": "MET-060",
+      "metric": "latency",
+      "value": 0.7
+    },
+    {
+      "family": "agent_security",
+      "id": "MET-061",
+      "metric": "risk",
+      "value": 0.83
+    },
+    {
+      "family": "prompt_injection",
+      "id": "MET-062",
+      "metric": "coverage",
+      "value": 0.96
+    },
+    {
+      "family": "tool_monitoring",
+      "id": "MET-063",
+      "metric": "recovery",
+      "value": 0.19
+    },
+    {
+      "family": "recovery_analysis",
+      "id": "MET-064",
+      "metric": "latency",
+      "value": 0.32
+    },
+    {
+      "family": "argument_security",
+      "id": "MET-065",
+      "metric": "risk",
+      "value": 0.45
+    },
+    {
+      "family": "workflow_safety",
+      "id": "MET-066",
+      "metric": "coverage",
+      "value": 0.58
+    },
+    {
+      "family": "data_validation",
+      "id": "MET-067",
+      "metric": "recovery",
+      "value": 0.71
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": "MET-068",
+      "metric": "latency",
+      "value": 0.84
+    },
+    {
+      "family": "risk_scoring",
+      "id": "MET-069",
+      "metric": "risk",
+      "value": 0.97
+    },
+    {
+      "family": "policy_compliance",
+      "id": "MET-070",
+      "metric": "coverage",
+      "value": 0.2
+    },
+    {
+      "family": "agent_security",
+      "id": "MET-071",
+      "metric": "recovery",
+      "value": 0.33
+    },
+    {
+      "family": "prompt_injection",
+      "id": "MET-072",
+      "metric": "latency",
+      "value": 0.46
+    },
+    {
+      "family": "tool_monitoring",
+      "id": "MET-073",
+      "metric": "risk",
+      "value": 0.59
+    },
+    {
+      "family": "recovery_analysis",
+      "id": "MET-074",
+      "metric": "coverage",
+      "value": 0.72
+    },
+    {
+      "family": "argument_security",
+      "id": "MET-075",
+      "metric": "recovery",
+      "value": 0.85
+    },
+    {
+      "family": "workflow_safety",
+      "id": "MET-076",
+      "metric": "latency",
+      "value": 0.98
+    },
+    {
+      "family": "data_validation",
+      "id": "MET-077",
+      "metric": "risk",
+      "value": 0.21
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": "MET-078",
+      "metric": "coverage",
+      "value": 0.34
+    },
+    {
+      "family": "risk_scoring",
+      "id": "MET-079",
+      "metric": "recovery",
+      "value": 0.47
+    },
+    {
+      "family": "policy_compliance",
+      "id": "MET-080",
+      "metric": "latency",
+      "value": 0.6
+    },
+    {
+      "family": "agent_security",
+      "id": "MET-081",
+      "metric": "risk",
+      "value": 0.73
+    },
+    {
+      "family": "prompt_injection",
+      "id": "MET-082",
+      "metric": "coverage",
+      "value": 0.86
+    },
+    {
+      "family": "tool_monitoring",
+      "id": "MET-083",
+      "metric": "recovery",
+      "value": 0.99
+    },
+    {
+      "family": "recovery_analysis",
+      "id": "MET-084",
+      "metric": "latency",
+      "value": 0.22
+    },
+    {
+      "family": "argument_security",
+      "id": "MET-085",
+      "metric": "risk",
+      "value": 0.35
+    },
+    {
+      "family": "workflow_safety",
+      "id": "MET-086",
+      "metric": "coverage",
+      "value": 0.48
+    },
+    {
+      "family": "data_validation",
+      "id": "MET-087",
+      "metric": "recovery",
+      "value": 0.61
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": "MET-088",
+      "metric": "latency",
+      "value": 0.74
+    },
+    {
+      "family": "risk_scoring",
+      "id": "MET-089",
+      "metric": "risk",
+      "value": 0.87
+    },
+    {
+      "family": "policy_compliance",
+      "id": "MET-090",
+      "metric": "coverage",
+      "value": 0.1
+    },
+    {
+      "family": "agent_security",
+      "id": "MET-091",
+      "metric": "recovery",
+      "value": 0.23
+    },
+    {
+      "family": "prompt_injection",
+      "id": "MET-092",
+      "metric": "latency",
+      "value": 0.36
+    },
+    {
+      "family": "tool_monitoring",
+      "id": "MET-093",
+      "metric": "risk",
+      "value": 0.49
+    },
+    {
+      "family": "recovery_analysis",
+      "id": "MET-094",
+      "metric": "coverage",
+      "value": 0.62
+    },
+    {
+      "family": "argument_security",
+      "id": "MET-095",
+      "metric": "recovery",
+      "value": 0.75
+    },
+    {
+      "family": "workflow_safety",
+      "id": "MET-096",
+      "metric": "latency",
+      "value": 0.88
+    },
+    {
+      "family": "data_validation",
+      "id": "MET-097",
+      "metric": "risk",
+      "value": 0.11
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": "MET-098",
+      "metric": "coverage",
+      "value": 0.24
+    },
+    {
+      "family": "risk_scoring",
+      "id": "MET-099",
+      "metric": "recovery",
+      "value": 0.37
+    },
+    {
+      "family": "policy_compliance",
+      "id": "MET-100",
+      "metric": "latency",
+      "value": 0.5
+    }
+  ],
+  "policies": [
+    {
+      "domain": "agent_security",
+      "id": "POL-001",
+      "state": "compliant",
+      "version": "v2"
+    },
+    {
+      "domain": "prompt_injection",
+      "id": "POL-002",
+      "state": "review",
+      "version": "v3"
+    },
+    {
+      "domain": "tool_monitoring",
+      "id": "POL-003",
+      "state": "non_compliant",
+      "version": "v4"
+    },
+    {
+      "domain": "recovery_analysis",
+      "id": "POL-004",
+      "state": "compliant",
+      "version": "v1"
+    },
+    {
+      "domain": "argument_security",
+      "id": "POL-005",
+      "state": "review",
+      "version": "v2"
+    },
+    {
+      "domain": "workflow_safety",
+      "id": "POL-006",
+      "state": "non_compliant",
+      "version": "v3"
+    },
+    {
+      "domain": "data_validation",
+      "id": "POL-007",
+      "state": "compliant",
+      "version": "v4"
+    },
+    {
+      "domain": "multi_source_synthesis",
+      "id": "POL-008",
+      "state": "review",
+      "version": "v1"
+    },
+    {
+      "domain": "risk_scoring",
+      "id": "POL-009",
+      "state": "non_compliant",
+      "version": "v2"
+    },
+    {
+      "domain": "policy_compliance",
+      "id": "POL-010",
+      "state": "compliant",
+      "version": "v3"
+    },
+    {
+      "domain": "agent_security",
+      "id": "POL-011",
+      "state": "review",
+      "version": "v4"
+    },
+    {
+      "domain": "prompt_injection",
+      "id": "POL-012",
+      "state": "non_compliant",
+      "version": "v1"
+    },
+    {
+      "domain": "tool_monitoring",
+      "id": "POL-013",
+      "state": "compliant",
+      "version": "v2"
+    },
+    {
+      "domain": "recovery_analysis",
+      "id": "POL-014",
+      "state": "review",
+      "version": "v3"
+    },
+    {
+      "domain": "argument_security",
+      "id": "POL-015",
+      "state": "non_compliant",
+      "version": "v4"
+    },
+    {
+      "domain": "workflow_safety",
+      "id": "POL-016",
+      "state": "compliant",
+      "version": "v1"
+    },
+    {
+      "domain": "data_validation",
+      "id": "POL-017",
+      "state": "review",
+      "version": "v2"
+    },
+    {
+      "domain": "multi_source_synthesis",
+      "id": "POL-018",
+      "state": "non_compliant",
+      "version": "v3"
+    },
+    {
+      "domain": "risk_scoring",
+      "id": "POL-019",
+      "state": "compliant",
+      "version": "v4"
+    },
+    {
+      "domain": "policy_compliance",
+      "id": "POL-020",
+      "state": "review",
+      "version": "v1"
+    },
+    {
+      "domain": "agent_security",
+      "id": "POL-021",
+      "state": "non_compliant",
+      "version": "v2"
+    },
+    {
+      "domain": "prompt_injection",
+      "id": "POL-022",
+      "state": "compliant",
+      "version": "v3"
+    },
+    {
+      "domain": "tool_monitoring",
+      "id": "POL-023",
+      "state": "review",
+      "version": "v4"
+    },
+    {
+      "domain": "recovery_analysis",
+      "id": "POL-024",
+      "state": "non_compliant",
+      "version": "v1"
+    },
+    {
+      "domain": "argument_security",
+      "id": "POL-025",
+      "state": "compliant",
+      "version": "v2"
+    },
+    {
+      "domain": "workflow_safety",
+      "id": "POL-026",
+      "state": "review",
+      "version": "v3"
+    },
+    {
+      "domain": "data_validation",
+      "id": "POL-027",
+      "state": "non_compliant",
+      "version": "v4"
+    },
+    {
+      "domain": "multi_source_synthesis",
+      "id": "POL-028",
+      "state": "compliant",
+      "version": "v1"
+    },
+    {
+      "domain": "risk_scoring",
+      "id": "POL-029",
+      "state": "review",
+      "version": "v2"
+    },
+    {
+      "domain": "policy_compliance",
+      "id": "POL-030",
+      "state": "non_compliant",
+      "version": "v3"
+    },
+    {
+      "domain": "agent_security",
+      "id": "POL-031",
+      "state": "compliant",
+      "version": "v4"
+    },
+    {
+      "domain": "prompt_injection",
+      "id": "POL-032",
+      "state": "review",
+      "version": "v1"
+    },
+    {
+      "domain": "tool_monitoring",
+      "id": "POL-033",
+      "state": "non_compliant",
+      "version": "v2"
+    },
+    {
+      "domain": "recovery_analysis",
+      "id": "POL-034",
+      "state": "compliant",
+      "version": "v3"
+    },
+    {
+      "domain": "argument_security",
+      "id": "POL-035",
+      "state": "review",
+      "version": "v4"
+    },
+    {
+      "domain": "workflow_safety",
+      "id": "POL-036",
+      "state": "non_compliant",
+      "version": "v1"
+    },
+    {
+      "domain": "data_validation",
+      "id": "POL-037",
+      "state": "compliant",
+      "version": "v2"
+    },
+    {
+      "domain": "multi_source_synthesis",
+      "id": "POL-038",
+      "state": "review",
+      "version": "v3"
+    },
+    {
+      "domain": "risk_scoring",
+      "id": "POL-039",
+      "state": "non_compliant",
+      "version": "v4"
+    },
+    {
+      "domain": "policy_compliance",
+      "id": "POL-040",
+      "state": "compliant",
+      "version": "v1"
+    },
+    {
+      "domain": "agent_security",
+      "id": "POL-041",
+      "state": "review",
+      "version": "v2"
+    },
+    {
+      "domain": "prompt_injection",
+      "id": "POL-042",
+      "state": "non_compliant",
+      "version": "v3"
+    },
+    {
+      "domain": "tool_monitoring",
+      "id": "POL-043",
+      "state": "compliant",
+      "version": "v4"
+    },
+    {
+      "domain": "recovery_analysis",
+      "id": "POL-044",
+      "state": "review",
+      "version": "v1"
+    },
+    {
+      "domain": "argument_security",
+      "id": "POL-045",
+      "state": "non_compliant",
+      "version": "v2"
+    },
+    {
+      "domain": "workflow_safety",
+      "id": "POL-046",
+      "state": "compliant",
+      "version": "v3"
+    },
+    {
+      "domain": "data_validation",
+      "id": "POL-047",
+      "state": "review",
+      "version": "v4"
+    },
+    {
+      "domain": "multi_source_synthesis",
+      "id": "POL-048",
+      "state": "non_compliant",
+      "version": "v1"
+    },
+    {
+      "domain": "risk_scoring",
+      "id": "POL-049",
+      "state": "compliant",
+      "version": "v2"
+    },
+    {
+      "domain": "policy_compliance",
+      "id": "POL-050",
+      "state": "review",
+      "version": "v3"
+    },
+    {
+      "domain": "agent_security",
+      "id": "POL-051",
+      "state": "non_compliant",
+      "version": "v4"
+    },
+    {
+      "domain": "prompt_injection",
+      "id": "POL-052",
+      "state": "compliant",
+      "version": "v1"
+    },
+    {
+      "domain": "tool_monitoring",
+      "id": "POL-053",
+      "state": "review",
+      "version": "v2"
+    },
+    {
+      "domain": "recovery_analysis",
+      "id": "POL-054",
+      "state": "non_compliant",
+      "version": "v3"
+    },
+    {
+      "domain": "argument_security",
+      "id": "POL-055",
+      "state": "compliant",
+      "version": "v4"
+    },
+    {
+      "domain": "workflow_safety",
+      "id": "POL-056",
+      "state": "review",
+      "version": "v1"
+    },
+    {
+      "domain": "data_validation",
+      "id": "POL-057",
+      "state": "non_compliant",
+      "version": "v2"
+    },
+    {
+      "domain": "multi_source_synthesis",
+      "id": "POL-058",
+      "state": "compliant",
+      "version": "v3"
+    },
+    {
+      "domain": "risk_scoring",
+      "id": "POL-059",
+      "state": "review",
+      "version": "v4"
+    },
+    {
+      "domain": "policy_compliance",
+      "id": "POL-060",
+      "state": "non_compliant",
+      "version": "v1"
+    }
+  ],
+  "tasks": [
+    {
+      "family": "agent_security",
+      "id": 1001,
+      "owner": "User001",
+      "priority": 1,
+      "status": "done"
+    },
+    {
+      "family": "prompt_injection",
+      "id": 1002,
+      "owner": "User002",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "family": "tool_monitoring",
+      "id": 1003,
+      "owner": "User003",
+      "priority": 3,
+      "status": "blocked"
+    },
+    {
+      "family": "recovery_analysis",
+      "id": 1004,
+      "owner": "User004",
+      "priority": 4,
+      "status": "done"
+    },
+    {
+      "family": "argument_security",
+      "id": 1005,
+      "owner": "User005",
+      "priority": 5,
+      "status": "pending"
+    },
+    {
+      "family": "workflow_safety",
+      "id": 1006,
+      "owner": "User006",
+      "priority": 1,
+      "status": "blocked"
+    },
+    {
+      "family": "data_validation",
+      "id": 1007,
+      "owner": "User007",
+      "priority": 2,
+      "status": "done"
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": 1008,
+      "owner": "User008",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "family": "risk_scoring",
+      "id": 1009,
+      "owner": "User009",
+      "priority": 4,
+      "status": "blocked"
+    },
+    {
+      "family": "policy_compliance",
+      "id": 1010,
+      "owner": "User010",
+      "priority": 5,
+      "status": "done"
+    },
+    {
+      "family": "agent_security",
+      "id": 1011,
+      "owner": "User011",
+      "priority": 1,
+      "status": "pending"
+    },
+    {
+      "family": "prompt_injection",
+      "id": 1012,
+      "owner": "User012",
+      "priority": 2,
+      "status": "blocked"
+    },
+    {
+      "family": "tool_monitoring",
+      "id": 1013,
+      "owner": "User013",
+      "priority": 3,
+      "status": "done"
+    },
+    {
+      "family": "recovery_analysis",
+      "id": 1014,
+      "owner": "User014",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "family": "argument_security",
+      "id": 1015,
+      "owner": "User015",
+      "priority": 5,
+      "status": "blocked"
+    },
+    {
+      "family": "workflow_safety",
+      "id": 1016,
+      "owner": "User016",
+      "priority": 1,
+      "status": "done"
+    },
+    {
+      "family": "data_validation",
+      "id": 1017,
+      "owner": "User017",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": 1018,
+      "owner": "User018",
+      "priority": 3,
+      "status": "blocked"
+    },
+    {
+      "family": "risk_scoring",
+      "id": 1019,
+      "owner": "User019",
+      "priority": 4,
+      "status": "done"
+    },
+    {
+      "family": "policy_compliance",
+      "id": 1020,
+      "owner": "User020",
+      "priority": 5,
+      "status": "pending"
+    },
+    {
+      "family": "agent_security",
+      "id": 1021,
+      "owner": "User021",
+      "priority": 1,
+      "status": "blocked"
+    },
+    {
+      "family": "prompt_injection",
+      "id": 1022,
+      "owner": "User022",
+      "priority": 2,
+      "status": "done"
+    },
+    {
+      "family": "tool_monitoring",
+      "id": 1023,
+      "owner": "User023",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "family": "recovery_analysis",
+      "id": 1024,
+      "owner": "User024",
+      "priority": 4,
+      "status": "blocked"
+    },
+    {
+      "family": "argument_security",
+      "id": 1025,
+      "owner": "User025",
+      "priority": 5,
+      "status": "done"
+    },
+    {
+      "family": "workflow_safety",
+      "id": 1026,
+      "owner": "User026",
+      "priority": 1,
+      "status": "pending"
+    },
+    {
+      "family": "data_validation",
+      "id": 1027,
+      "owner": "User027",
+      "priority": 2,
+      "status": "blocked"
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": 1028,
+      "owner": "User028",
+      "priority": 3,
+      "status": "done"
+    },
+    {
+      "family": "risk_scoring",
+      "id": 1029,
+      "owner": "User029",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "family": "policy_compliance",
+      "id": 1030,
+      "owner": "User030",
+      "priority": 5,
+      "status": "blocked"
+    },
+    {
+      "family": "agent_security",
+      "id": 1031,
+      "owner": "User031",
+      "priority": 1,
+      "status": "done"
+    },
+    {
+      "family": "prompt_injection",
+      "id": 1032,
+      "owner": "User032",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "family": "tool_monitoring",
+      "id": 1033,
+      "owner": "User033",
+      "priority": 3,
+      "status": "blocked"
+    },
+    {
+      "family": "recovery_analysis",
+      "id": 1034,
+      "owner": "User034",
+      "priority": 4,
+      "status": "done"
+    },
+    {
+      "family": "argument_security",
+      "id": 1035,
+      "owner": "User035",
+      "priority": 5,
+      "status": "pending"
+    },
+    {
+      "family": "workflow_safety",
+      "id": 1036,
+      "owner": "User036",
+      "priority": 1,
+      "status": "blocked"
+    },
+    {
+      "family": "data_validation",
+      "id": 1037,
+      "owner": "User037",
+      "priority": 2,
+      "status": "done"
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": 1038,
+      "owner": "User038",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "family": "risk_scoring",
+      "id": 1039,
+      "owner": "User039",
+      "priority": 4,
+      "status": "blocked"
+    },
+    {
+      "family": "policy_compliance",
+      "id": 1040,
+      "owner": "User040",
+      "priority": 5,
+      "status": "done"
+    },
+    {
+      "family": "agent_security",
+      "id": 1041,
+      "owner": "User041",
+      "priority": 1,
+      "status": "pending"
+    },
+    {
+      "family": "prompt_injection",
+      "id": 1042,
+      "owner": "User042",
+      "priority": 2,
+      "status": "blocked"
+    },
+    {
+      "family": "tool_monitoring",
+      "id": 1043,
+      "owner": "User043",
+      "priority": 3,
+      "status": "done"
+    },
+    {
+      "family": "recovery_analysis",
+      "id": 1044,
+      "owner": "User044",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "family": "argument_security",
+      "id": 1045,
+      "owner": "User045",
+      "priority": 5,
+      "status": "blocked"
+    },
+    {
+      "family": "workflow_safety",
+      "id": 1046,
+      "owner": "User046",
+      "priority": 1,
+      "status": "done"
+    },
+    {
+      "family": "data_validation",
+      "id": 1047,
+      "owner": "User047",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": 1048,
+      "owner": "User048",
+      "priority": 3,
+      "status": "blocked"
+    },
+    {
+      "family": "risk_scoring",
+      "id": 1049,
+      "owner": "User049",
+      "priority": 4,
+      "status": "done"
+    },
+    {
+      "family": "policy_compliance",
+      "id": 1050,
+      "owner": "User050",
+      "priority": 5,
+      "status": "pending"
+    },
+    {
+      "family": "agent_security",
+      "id": 1051,
+      "owner": "User051",
+      "priority": 1,
+      "status": "blocked"
+    },
+    {
+      "family": "prompt_injection",
+      "id": 1052,
+      "owner": "User052",
+      "priority": 2,
+      "status": "done"
+    },
+    {
+      "family": "tool_monitoring",
+      "id": 1053,
+      "owner": "User053",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "family": "recovery_analysis",
+      "id": 1054,
+      "owner": "User054",
+      "priority": 4,
+      "status": "blocked"
+    },
+    {
+      "family": "argument_security",
+      "id": 1055,
+      "owner": "User055",
+      "priority": 5,
+      "status": "done"
+    },
+    {
+      "family": "workflow_safety",
+      "id": 1056,
+      "owner": "User056",
+      "priority": 1,
+      "status": "pending"
+    },
+    {
+      "family": "data_validation",
+      "id": 1057,
+      "owner": "User057",
+      "priority": 2,
+      "status": "blocked"
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": 1058,
+      "owner": "User058",
+      "priority": 3,
+      "status": "done"
+    },
+    {
+      "family": "risk_scoring",
+      "id": 1059,
+      "owner": "User059",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "family": "policy_compliance",
+      "id": 1060,
+      "owner": "User060",
+      "priority": 5,
+      "status": "blocked"
+    },
+    {
+      "family": "agent_security",
+      "id": 1061,
+      "owner": "User061",
+      "priority": 1,
+      "status": "done"
+    },
+    {
+      "family": "prompt_injection",
+      "id": 1062,
+      "owner": "User062",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "family": "tool_monitoring",
+      "id": 1063,
+      "owner": "User063",
+      "priority": 3,
+      "status": "blocked"
+    },
+    {
+      "family": "recovery_analysis",
+      "id": 1064,
+      "owner": "User064",
+      "priority": 4,
+      "status": "done"
+    },
+    {
+      "family": "argument_security",
+      "id": 1065,
+      "owner": "User065",
+      "priority": 5,
+      "status": "pending"
+    },
+    {
+      "family": "workflow_safety",
+      "id": 1066,
+      "owner": "User066",
+      "priority": 1,
+      "status": "blocked"
+    },
+    {
+      "family": "data_validation",
+      "id": 1067,
+      "owner": "User067",
+      "priority": 2,
+      "status": "done"
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": 1068,
+      "owner": "User068",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "family": "risk_scoring",
+      "id": 1069,
+      "owner": "User069",
+      "priority": 4,
+      "status": "blocked"
+    },
+    {
+      "family": "policy_compliance",
+      "id": 1070,
+      "owner": "User070",
+      "priority": 5,
+      "status": "done"
+    },
+    {
+      "family": "agent_security",
+      "id": 1071,
+      "owner": "User071",
+      "priority": 1,
+      "status": "pending"
+    },
+    {
+      "family": "prompt_injection",
+      "id": 1072,
+      "owner": "User072",
+      "priority": 2,
+      "status": "blocked"
+    },
+    {
+      "family": "tool_monitoring",
+      "id": 1073,
+      "owner": "User073",
+      "priority": 3,
+      "status": "done"
+    },
+    {
+      "family": "recovery_analysis",
+      "id": 1074,
+      "owner": "User074",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "family": "argument_security",
+      "id": 1075,
+      "owner": "User075",
+      "priority": 5,
+      "status": "blocked"
+    },
+    {
+      "family": "workflow_safety",
+      "id": 1076,
+      "owner": "User076",
+      "priority": 1,
+      "status": "done"
+    },
+    {
+      "family": "data_validation",
+      "id": 1077,
+      "owner": "User077",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": 1078,
+      "owner": "User078",
+      "priority": 3,
+      "status": "blocked"
+    },
+    {
+      "family": "risk_scoring",
+      "id": 1079,
+      "owner": "User079",
+      "priority": 4,
+      "status": "done"
+    },
+    {
+      "family": "policy_compliance",
+      "id": 1080,
+      "owner": "User080",
+      "priority": 5,
+      "status": "pending"
+    },
+    {
+      "family": "agent_security",
+      "id": 1081,
+      "owner": "User001",
+      "priority": 1,
+      "status": "blocked"
+    },
+    {
+      "family": "prompt_injection",
+      "id": 1082,
+      "owner": "User002",
+      "priority": 2,
+      "status": "done"
+    },
+    {
+      "family": "tool_monitoring",
+      "id": 1083,
+      "owner": "User003",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "family": "recovery_analysis",
+      "id": 1084,
+      "owner": "User004",
+      "priority": 4,
+      "status": "blocked"
+    },
+    {
+      "family": "argument_security",
+      "id": 1085,
+      "owner": "User005",
+      "priority": 5,
+      "status": "done"
+    },
+    {
+      "family": "workflow_safety",
+      "id": 1086,
+      "owner": "User006",
+      "priority": 1,
+      "status": "pending"
+    },
+    {
+      "family": "data_validation",
+      "id": 1087,
+      "owner": "User007",
+      "priority": 2,
+      "status": "blocked"
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": 1088,
+      "owner": "User008",
+      "priority": 3,
+      "status": "done"
+    },
+    {
+      "family": "risk_scoring",
+      "id": 1089,
+      "owner": "User009",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "family": "policy_compliance",
+      "id": 1090,
+      "owner": "User010",
+      "priority": 5,
+      "status": "blocked"
+    },
+    {
+      "family": "agent_security",
+      "id": 1091,
+      "owner": "User011",
+      "priority": 1,
+      "status": "done"
+    },
+    {
+      "family": "prompt_injection",
+      "id": 1092,
+      "owner": "User012",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "family": "tool_monitoring",
+      "id": 1093,
+      "owner": "User013",
+      "priority": 3,
+      "status": "blocked"
+    },
+    {
+      "family": "recovery_analysis",
+      "id": 1094,
+      "owner": "User014",
+      "priority": 4,
+      "status": "done"
+    },
+    {
+      "family": "argument_security",
+      "id": 1095,
+      "owner": "User015",
+      "priority": 5,
+      "status": "pending"
+    },
+    {
+      "family": "workflow_safety",
+      "id": 1096,
+      "owner": "User016",
+      "priority": 1,
+      "status": "blocked"
+    },
+    {
+      "family": "data_validation",
+      "id": 1097,
+      "owner": "User017",
+      "priority": 2,
+      "status": "done"
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": 1098,
+      "owner": "User018",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "family": "risk_scoring",
+      "id": 1099,
+      "owner": "User019",
+      "priority": 4,
+      "status": "blocked"
+    },
+    {
+      "family": "policy_compliance",
+      "id": 1100,
+      "owner": "User020",
+      "priority": 5,
+      "status": "done"
+    },
+    {
+      "family": "agent_security",
+      "id": 1101,
+      "owner": "User021",
+      "priority": 1,
+      "status": "pending"
+    },
+    {
+      "family": "prompt_injection",
+      "id": 1102,
+      "owner": "User022",
+      "priority": 2,
+      "status": "blocked"
+    },
+    {
+      "family": "tool_monitoring",
+      "id": 1103,
+      "owner": "User023",
+      "priority": 3,
+      "status": "done"
+    },
+    {
+      "family": "recovery_analysis",
+      "id": 1104,
+      "owner": "User024",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "family": "argument_security",
+      "id": 1105,
+      "owner": "User025",
+      "priority": 5,
+      "status": "blocked"
+    },
+    {
+      "family": "workflow_safety",
+      "id": 1106,
+      "owner": "User026",
+      "priority": 1,
+      "status": "done"
+    },
+    {
+      "family": "data_validation",
+      "id": 1107,
+      "owner": "User027",
+      "priority": 2,
+      "status": "pending"
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": 1108,
+      "owner": "User028",
+      "priority": 3,
+      "status": "blocked"
+    },
+    {
+      "family": "risk_scoring",
+      "id": 1109,
+      "owner": "User029",
+      "priority": 4,
+      "status": "done"
+    },
+    {
+      "family": "policy_compliance",
+      "id": 1110,
+      "owner": "User030",
+      "priority": 5,
+      "status": "pending"
+    },
+    {
+      "family": "agent_security",
+      "id": 1111,
+      "owner": "User031",
+      "priority": 1,
+      "status": "blocked"
+    },
+    {
+      "family": "prompt_injection",
+      "id": 1112,
+      "owner": "User032",
+      "priority": 2,
+      "status": "done"
+    },
+    {
+      "family": "tool_monitoring",
+      "id": 1113,
+      "owner": "User033",
+      "priority": 3,
+      "status": "pending"
+    },
+    {
+      "family": "recovery_analysis",
+      "id": 1114,
+      "owner": "User034",
+      "priority": 4,
+      "status": "blocked"
+    },
+    {
+      "family": "argument_security",
+      "id": 1115,
+      "owner": "User035",
+      "priority": 5,
+      "status": "done"
+    },
+    {
+      "family": "workflow_safety",
+      "id": 1116,
+      "owner": "User036",
+      "priority": 1,
+      "status": "pending"
+    },
+    {
+      "family": "data_validation",
+      "id": 1117,
+      "owner": "User037",
+      "priority": 2,
+      "status": "blocked"
+    },
+    {
+      "family": "multi_source_synthesis",
+      "id": 1118,
+      "owner": "User038",
+      "priority": 3,
+      "status": "done"
+    },
+    {
+      "family": "risk_scoring",
+      "id": 1119,
+      "owner": "User039",
+      "priority": 4,
+      "status": "pending"
+    },
+    {
+      "family": "policy_compliance",
+      "id": 1120,
+      "owner": "User040",
+      "priority": 5,
+      "status": "blocked"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "User001",
+      "role": "analyst",
+      "score": 67,
+      "team": "T1"
+    },
+    {
+      "id": 2,
+      "name": "User002",
+      "role": "engineer",
+      "score": 74,
+      "team": "T2"
+    },
+    {
+      "id": 3,
+      "name": "User003",
+      "role": "researcher",
+      "score": 81,
+      "team": "T3"
+    },
+    {
+      "id": 4,
+      "name": "User004",
+      "role": "reviewer",
+      "score": 88,
+      "team": "T4"
+    },
+    {
+      "id": 5,
+      "name": "User005",
+      "role": "analyst",
+      "score": 95,
+      "team": "T5"
+    },
+    {
+      "id": 6,
+      "name": "User006",
+      "role": "engineer",
+      "score": 61,
+      "team": "T6"
+    },
+    {
+      "id": 7,
+      "name": "User007",
+      "role": "researcher",
+      "score": 68,
+      "team": "T7"
+    },
+    {
+      "id": 8,
+      "name": "User008",
+      "role": "reviewer",
+      "score": 75,
+      "team": "T8"
+    },
+    {
+      "id": 9,
+      "name": "User009",
+      "role": "analyst",
+      "score": 82,
+      "team": "T1"
+    },
+    {
+      "id": 10,
+      "name": "User010",
+      "role": "engineer",
+      "score": 89,
+      "team": "T2"
+    },
+    {
+      "id": 11,
+      "name": "User011",
+      "role": "researcher",
+      "score": 96,
+      "team": "T3"
+    },
+    {
+      "id": 12,
+      "name": "User012",
+      "role": "reviewer",
+      "score": 62,
+      "team": "T4"
+    },
+    {
+      "id": 13,
+      "name": "User013",
+      "role": "analyst",
+      "score": 69,
+      "team": "T5"
+    },
+    {
+      "id": 14,
+      "name": "User014",
+      "role": "engineer",
+      "score": 76,
+      "team": "T6"
+    },
+    {
+      "id": 15,
+      "name": "User015",
+      "role": "researcher",
+      "score": 83,
+      "team": "T7"
+    },
+    {
+      "id": 16,
+      "name": "User016",
+      "role": "reviewer",
+      "score": 90,
+      "team": "T8"
+    },
+    {
+      "id": 17,
+      "name": "User017",
+      "role": "analyst",
+      "score": 97,
+      "team": "T1"
+    },
+    {
+      "id": 18,
+      "name": "User018",
+      "role": "engineer",
+      "score": 63,
+      "team": "T2"
+    },
+    {
+      "id": 19,
+      "name": "User019",
+      "role": "researcher",
+      "score": 70,
+      "team": "T3"
+    },
+    {
+      "id": 20,
+      "name": "User020",
+      "role": "reviewer",
+      "score": 77,
+      "team": "T4"
+    },
+    {
+      "id": 21,
+      "name": "User021",
+      "role": "analyst",
+      "score": 84,
+      "team": "T5"
+    },
+    {
+      "id": 22,
+      "name": "User022",
+      "role": "engineer",
+      "score": 91,
+      "team": "T6"
+    },
+    {
+      "id": 23,
+      "name": "User023",
+      "role": "researcher",
+      "score": 98,
+      "team": "T7"
+    },
+    {
+      "id": 24,
+      "name": "User024",
+      "role": "reviewer",
+      "score": 64,
+      "team": "T8"
+    },
+    {
+      "id": 25,
+      "name": "User025",
+      "role": "analyst",
+      "score": 71,
+      "team": "T1"
+    },
+    {
+      "id": 26,
+      "name": "User026",
+      "role": "engineer",
+      "score": 78,
+      "team": "T2"
+    },
+    {
+      "id": 27,
+      "name": "User027",
+      "role": "researcher",
+      "score": 85,
+      "team": "T3"
+    },
+    {
+      "id": 28,
+      "name": "User028",
+      "role": "reviewer",
+      "score": 92,
+      "team": "T4"
+    },
+    {
+      "id": 29,
+      "name": "User029",
+      "role": "analyst",
+      "score": 99,
+      "team": "T5"
+    },
+    {
+      "id": 30,
+      "name": "User030",
+      "role": "engineer",
+      "score": 65,
+      "team": "T6"
+    },
+    {
+      "id": 31,
+      "name": "User031",
+      "role": "researcher",
+      "score": 72,
+      "team": "T7"
+    },
+    {
+      "id": 32,
+      "name": "User032",
+      "role": "reviewer",
+      "score": 79,
+      "team": "T8"
+    },
+    {
+      "id": 33,
+      "name": "User033",
+      "role": "analyst",
+      "score": 86,
+      "team": "T1"
+    },
+    {
+      "id": 34,
+      "name": "User034",
+      "role": "engineer",
+      "score": 93,
+      "team": "T2"
+    },
+    {
+      "id": 35,
+      "name": "User035",
+      "role": "researcher",
+      "score": 100,
+      "team": "T3"
+    },
+    {
+      "id": 36,
+      "name": "User036",
+      "role": "reviewer",
+      "score": 66,
+      "team": "T4"
+    },
+    {
+      "id": 37,
+      "name": "User037",
+      "role": "analyst",
+      "score": 73,
+      "team": "T5"
+    },
+    {
+      "id": 38,
+      "name": "User038",
+      "role": "engineer",
+      "score": 80,
+      "team": "T6"
+    },
+    {
+      "id": 39,
+      "name": "User039",
+      "role": "researcher",
+      "score": 87,
+      "team": "T7"
+    },
+    {
+      "id": 40,
+      "name": "User040",
+      "role": "reviewer",
+      "score": 94,
+      "team": "T8"
+    },
+    {
+      "id": 41,
+      "name": "User041",
+      "role": "analyst",
+      "score": 60,
+      "team": "T1"
+    },
+    {
+      "id": 42,
+      "name": "User042",
+      "role": "engineer",
+      "score": 67,
+      "team": "T2"
+    },
+    {
+      "id": 43,
+      "name": "User043",
+      "role": "researcher",
+      "score": 74,
+      "team": "T3"
+    },
+    {
+      "id": 44,
+      "name": "User044",
+      "role": "reviewer",
+      "score": 81,
+      "team": "T4"
+    },
+    {
+      "id": 45,
+      "name": "User045",
+      "role": "analyst",
+      "score": 88,
+      "team": "T5"
+    },
+    {
+      "id": 46,
+      "name": "User046",
+      "role": "engineer",
+      "score": 95,
+      "team": "T6"
+    },
+    {
+      "id": 47,
+      "name": "User047",
+      "role": "researcher",
+      "score": 61,
+      "team": "T7"
+    },
+    {
+      "id": 48,
+      "name": "User048",
+      "role": "reviewer",
+      "score": 68,
+      "team": "T8"
+    },
+    {
+      "id": 49,
+      "name": "User049",
+      "role": "analyst",
+      "score": 75,
+      "team": "T1"
+    },
+    {
+      "id": 50,
+      "name": "User050",
+      "role": "engineer",
+      "score": 82,
+      "team": "T2"
+    },
+    {
+      "id": 51,
+      "name": "User051",
+      "role": "researcher",
+      "score": 89,
+      "team": "T3"
+    },
+    {
+      "id": 52,
+      "name": "User052",
+      "role": "reviewer",
+      "score": 96,
+      "team": "T4"
+    },
+    {
+      "id": 53,
+      "name": "User053",
+      "role": "analyst",
+      "score": 62,
+      "team": "T5"
+    },
+    {
+      "id": 54,
+      "name": "User054",
+      "role": "engineer",
+      "score": 69,
+      "team": "T6"
+    },
+    {
+      "id": 55,
+      "name": "User055",
+      "role": "researcher",
+      "score": 76,
+      "team": "T7"
+    },
+    {
+      "id": 56,
+      "name": "User056",
+      "role": "reviewer",
+      "score": 83,
+      "team": "T8"
+    },
+    {
+      "id": 57,
+      "name": "User057",
+      "role": "analyst",
+      "score": 90,
+      "team": "T1"
+    },
+    {
+      "id": 58,
+      "name": "User058",
+      "role": "engineer",
+      "score": 97,
+      "team": "T2"
+    },
+    {
+      "id": 59,
+      "name": "User059",
+      "role": "researcher",
+      "score": 63,
+      "team": "T3"
+    },
+    {
+      "id": 60,
+      "name": "User060",
+      "role": "reviewer",
+      "score": 70,
+      "team": "T4"
+    },
+    {
+      "id": 61,
+      "name": "User061",
+      "role": "analyst",
+      "score": 77,
+      "team": "T5"
+    },
+    {
+      "id": 62,
+      "name": "User062",
+      "role": "engineer",
+      "score": 84,
+      "team": "T6"
+    },
+    {
+      "id": 63,
+      "name": "User063",
+      "role": "researcher",
+      "score": 91,
+      "team": "T7"
+    },
+    {
+      "id": 64,
+      "name": "User064",
+      "role": "reviewer",
+      "score": 98,
+      "team": "T8"
+    },
+    {
+      "id": 65,
+      "name": "User065",
+      "role": "analyst",
+      "score": 64,
+      "team": "T1"
+    },
+    {
+      "id": 66,
+      "name": "User066",
+      "role": "engineer",
+      "score": 71,
+      "team": "T2"
+    },
+    {
+      "id": 67,
+      "name": "User067",
+      "role": "researcher",
+      "score": 78,
+      "team": "T3"
+    },
+    {
+      "id": 68,
+      "name": "User068",
+      "role": "reviewer",
+      "score": 85,
+      "team": "T4"
+    },
+    {
+      "id": 69,
+      "name": "User069",
+      "role": "analyst",
+      "score": 92,
+      "team": "T5"
+    },
+    {
+      "id": 70,
+      "name": "User070",
+      "role": "engineer",
+      "score": 99,
+      "team": "T6"
+    },
+    {
+      "id": 71,
+      "name": "User071",
+      "role": "researcher",
+      "score": 65,
+      "team": "T7"
+    },
+    {
+      "id": 72,
+      "name": "User072",
+      "role": "reviewer",
+      "score": 72,
+      "team": "T8"
+    },
+    {
+      "id": 73,
+      "name": "User073",
+      "role": "analyst",
+      "score": 79,
+      "team": "T1"
+    },
+    {
+      "id": 74,
+      "name": "User074",
+      "role": "engineer",
+      "score": 86,
+      "team": "T2"
+    },
+    {
+      "id": 75,
+      "name": "User075",
+      "role": "researcher",
+      "score": 93,
+      "team": "T3"
+    },
+    {
+      "id": 76,
+      "name": "User076",
+      "role": "reviewer",
+      "score": 100,
+      "team": "T4"
+    },
+    {
+      "id": 77,
+      "name": "User077",
+      "role": "analyst",
+      "score": 66,
+      "team": "T5"
+    },
+    {
+      "id": 78,
+      "name": "User078",
+      "role": "engineer",
+      "score": 73,
+      "team": "T6"
+    },
+    {
+      "id": 79,
+      "name": "User079",
+      "role": "researcher",
+      "score": 80,
+      "team": "T7"
+    },
+    {
+      "id": 80,
+      "name": "User080",
+      "role": "reviewer",
+      "score": 87,
+      "team": "T8"
+    }
+  ]
+}

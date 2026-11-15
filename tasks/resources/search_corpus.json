@@ -1,0 +1,2002 @@
+[
+  {
+    "title": "LLM Agent Security Case 001",
+    "url": "https://example.local/agent_security/001",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 001",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 002",
+    "url": "https://example.local/prompt_injection/002",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 002",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 003",
+    "url": "https://example.local/tool_monitoring/003",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 003",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 004",
+    "url": "https://example.local/recovery_analysis/004",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 004",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 005",
+    "url": "https://example.local/argument_security/005",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 005",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 006",
+    "url": "https://example.local/workflow_safety/006",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 006",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 007",
+    "url": "https://example.local/data_validation/007",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 007",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 008",
+    "url": "https://example.local/multi_source_synthesis/008",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 008",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 009",
+    "url": "https://example.local/risk_scoring/009",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 009",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 010",
+    "url": "https://example.local/policy_compliance/010",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 010",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 011",
+    "url": "https://example.local/agent_security/011",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 011",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 012",
+    "url": "https://example.local/prompt_injection/012",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 012",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 013",
+    "url": "https://example.local/tool_monitoring/013",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 013",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 014",
+    "url": "https://example.local/recovery_analysis/014",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 014",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 015",
+    "url": "https://example.local/argument_security/015",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 015",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 016",
+    "url": "https://example.local/workflow_safety/016",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 016",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 017",
+    "url": "https://example.local/data_validation/017",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 017",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 018",
+    "url": "https://example.local/multi_source_synthesis/018",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 018",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 019",
+    "url": "https://example.local/risk_scoring/019",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 019",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 020",
+    "url": "https://example.local/policy_compliance/020",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 020",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 021",
+    "url": "https://example.local/agent_security/021",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 021",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 022",
+    "url": "https://example.local/prompt_injection/022",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 022",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 023",
+    "url": "https://example.local/tool_monitoring/023",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 023",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 024",
+    "url": "https://example.local/recovery_analysis/024",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 024",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 025",
+    "url": "https://example.local/argument_security/025",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 025",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 026",
+    "url": "https://example.local/workflow_safety/026",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 026",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 027",
+    "url": "https://example.local/data_validation/027",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 027",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 028",
+    "url": "https://example.local/multi_source_synthesis/028",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 028",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 029",
+    "url": "https://example.local/risk_scoring/029",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 029",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 030",
+    "url": "https://example.local/policy_compliance/030",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 030",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 031",
+    "url": "https://example.local/agent_security/031",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 031",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 032",
+    "url": "https://example.local/prompt_injection/032",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 032",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 033",
+    "url": "https://example.local/tool_monitoring/033",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 033",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 034",
+    "url": "https://example.local/recovery_analysis/034",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 034",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 035",
+    "url": "https://example.local/argument_security/035",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 035",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 036",
+    "url": "https://example.local/workflow_safety/036",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 036",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 037",
+    "url": "https://example.local/data_validation/037",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 037",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 038",
+    "url": "https://example.local/multi_source_synthesis/038",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 038",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 039",
+    "url": "https://example.local/risk_scoring/039",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 039",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 040",
+    "url": "https://example.local/policy_compliance/040",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 040",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 041",
+    "url": "https://example.local/agent_security/041",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 041",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 042",
+    "url": "https://example.local/prompt_injection/042",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 042",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 043",
+    "url": "https://example.local/tool_monitoring/043",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 043",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 044",
+    "url": "https://example.local/recovery_analysis/044",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 044",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 045",
+    "url": "https://example.local/argument_security/045",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 045",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 046",
+    "url": "https://example.local/workflow_safety/046",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 046",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 047",
+    "url": "https://example.local/data_validation/047",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 047",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 048",
+    "url": "https://example.local/multi_source_synthesis/048",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 048",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 049",
+    "url": "https://example.local/risk_scoring/049",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 049",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 050",
+    "url": "https://example.local/policy_compliance/050",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 050",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 051",
+    "url": "https://example.local/agent_security/051",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 051",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 052",
+    "url": "https://example.local/prompt_injection/052",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 052",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 053",
+    "url": "https://example.local/tool_monitoring/053",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 053",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 054",
+    "url": "https://example.local/recovery_analysis/054",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 054",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 055",
+    "url": "https://example.local/argument_security/055",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 055",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 056",
+    "url": "https://example.local/workflow_safety/056",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 056",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 057",
+    "url": "https://example.local/data_validation/057",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 057",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 058",
+    "url": "https://example.local/multi_source_synthesis/058",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 058",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 059",
+    "url": "https://example.local/risk_scoring/059",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 059",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 060",
+    "url": "https://example.local/policy_compliance/060",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 060",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 061",
+    "url": "https://example.local/agent_security/061",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 061",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 062",
+    "url": "https://example.local/prompt_injection/062",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 062",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 063",
+    "url": "https://example.local/tool_monitoring/063",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 063",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 064",
+    "url": "https://example.local/recovery_analysis/064",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 064",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 065",
+    "url": "https://example.local/argument_security/065",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 065",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 066",
+    "url": "https://example.local/workflow_safety/066",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 066",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 067",
+    "url": "https://example.local/data_validation/067",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 067",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 068",
+    "url": "https://example.local/multi_source_synthesis/068",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 068",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 069",
+    "url": "https://example.local/risk_scoring/069",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 069",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 070",
+    "url": "https://example.local/policy_compliance/070",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 070",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 071",
+    "url": "https://example.local/agent_security/071",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 071",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 072",
+    "url": "https://example.local/prompt_injection/072",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 072",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 073",
+    "url": "https://example.local/tool_monitoring/073",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 073",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 074",
+    "url": "https://example.local/recovery_analysis/074",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 074",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 075",
+    "url": "https://example.local/argument_security/075",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 075",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 076",
+    "url": "https://example.local/workflow_safety/076",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 076",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 077",
+    "url": "https://example.local/data_validation/077",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 077",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 078",
+    "url": "https://example.local/multi_source_synthesis/078",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 078",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 079",
+    "url": "https://example.local/risk_scoring/079",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 079",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 080",
+    "url": "https://example.local/policy_compliance/080",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 080",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 081",
+    "url": "https://example.local/agent_security/081",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 081",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 082",
+    "url": "https://example.local/prompt_injection/082",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 082",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 083",
+    "url": "https://example.local/tool_monitoring/083",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 083",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 084",
+    "url": "https://example.local/recovery_analysis/084",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 084",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 085",
+    "url": "https://example.local/argument_security/085",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 085",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 086",
+    "url": "https://example.local/workflow_safety/086",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 086",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 087",
+    "url": "https://example.local/data_validation/087",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 087",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 088",
+    "url": "https://example.local/multi_source_synthesis/088",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 088",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 089",
+    "url": "https://example.local/risk_scoring/089",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 089",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 090",
+    "url": "https://example.local/policy_compliance/090",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 090",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 091",
+    "url": "https://example.local/agent_security/091",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 091",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 092",
+    "url": "https://example.local/prompt_injection/092",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 092",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 093",
+    "url": "https://example.local/tool_monitoring/093",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 093",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 094",
+    "url": "https://example.local/recovery_analysis/094",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 094",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 095",
+    "url": "https://example.local/argument_security/095",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 095",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 096",
+    "url": "https://example.local/workflow_safety/096",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 096",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 097",
+    "url": "https://example.local/data_validation/097",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 097",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 098",
+    "url": "https://example.local/multi_source_synthesis/098",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 098",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 099",
+    "url": "https://example.local/risk_scoring/099",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 099",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 100",
+    "url": "https://example.local/policy_compliance/100",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 100",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 101",
+    "url": "https://example.local/agent_security/101",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 101",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 102",
+    "url": "https://example.local/prompt_injection/102",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 102",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 103",
+    "url": "https://example.local/tool_monitoring/103",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 103",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 104",
+    "url": "https://example.local/recovery_analysis/104",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 104",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 105",
+    "url": "https://example.local/argument_security/105",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 105",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 106",
+    "url": "https://example.local/workflow_safety/106",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 106",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 107",
+    "url": "https://example.local/data_validation/107",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 107",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 108",
+    "url": "https://example.local/multi_source_synthesis/108",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 108",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 109",
+    "url": "https://example.local/risk_scoring/109",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 109",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 110",
+    "url": "https://example.local/policy_compliance/110",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 110",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 111",
+    "url": "https://example.local/agent_security/111",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 111",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 112",
+    "url": "https://example.local/prompt_injection/112",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 112",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 113",
+    "url": "https://example.local/tool_monitoring/113",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 113",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 114",
+    "url": "https://example.local/recovery_analysis/114",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 114",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 115",
+    "url": "https://example.local/argument_security/115",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 115",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 116",
+    "url": "https://example.local/workflow_safety/116",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 116",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 117",
+    "url": "https://example.local/data_validation/117",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 117",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 118",
+    "url": "https://example.local/multi_source_synthesis/118",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 118",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 119",
+    "url": "https://example.local/risk_scoring/119",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 119",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 120",
+    "url": "https://example.local/policy_compliance/120",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 120",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 121",
+    "url": "https://example.local/agent_security/121",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 121",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 122",
+    "url": "https://example.local/prompt_injection/122",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 122",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 123",
+    "url": "https://example.local/tool_monitoring/123",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 123",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 124",
+    "url": "https://example.local/recovery_analysis/124",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 124",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 125",
+    "url": "https://example.local/argument_security/125",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 125",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 126",
+    "url": "https://example.local/workflow_safety/126",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 126",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 127",
+    "url": "https://example.local/data_validation/127",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 127",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 128",
+    "url": "https://example.local/multi_source_synthesis/128",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 128",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 129",
+    "url": "https://example.local/risk_scoring/129",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 129",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 130",
+    "url": "https://example.local/policy_compliance/130",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 130",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 131",
+    "url": "https://example.local/agent_security/131",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 131",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 132",
+    "url": "https://example.local/prompt_injection/132",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 132",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 133",
+    "url": "https://example.local/tool_monitoring/133",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 133",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 134",
+    "url": "https://example.local/recovery_analysis/134",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 134",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 135",
+    "url": "https://example.local/argument_security/135",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 135",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 136",
+    "url": "https://example.local/workflow_safety/136",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 136",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 137",
+    "url": "https://example.local/data_validation/137",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 137",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 138",
+    "url": "https://example.local/multi_source_synthesis/138",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 138",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 139",
+    "url": "https://example.local/risk_scoring/139",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 139",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 140",
+    "url": "https://example.local/policy_compliance/140",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 140",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 141",
+    "url": "https://example.local/agent_security/141",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 141",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 142",
+    "url": "https://example.local/prompt_injection/142",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 142",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 143",
+    "url": "https://example.local/tool_monitoring/143",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 143",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 144",
+    "url": "https://example.local/recovery_analysis/144",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 144",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 145",
+    "url": "https://example.local/argument_security/145",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 145",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 146",
+    "url": "https://example.local/workflow_safety/146",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 146",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 147",
+    "url": "https://example.local/data_validation/147",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 147",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 148",
+    "url": "https://example.local/multi_source_synthesis/148",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 148",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 149",
+    "url": "https://example.local/risk_scoring/149",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 149",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 150",
+    "url": "https://example.local/policy_compliance/150",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 150",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 151",
+    "url": "https://example.local/agent_security/151",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 151",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 152",
+    "url": "https://example.local/prompt_injection/152",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 152",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 153",
+    "url": "https://example.local/tool_monitoring/153",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 153",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 154",
+    "url": "https://example.local/recovery_analysis/154",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 154",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 155",
+    "url": "https://example.local/argument_security/155",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 155",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 156",
+    "url": "https://example.local/workflow_safety/156",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 156",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 157",
+    "url": "https://example.local/data_validation/157",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 157",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 158",
+    "url": "https://example.local/multi_source_synthesis/158",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 158",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 159",
+    "url": "https://example.local/risk_scoring/159",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 159",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 160",
+    "url": "https://example.local/policy_compliance/160",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 160",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 161",
+    "url": "https://example.local/agent_security/161",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 161",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 162",
+    "url": "https://example.local/prompt_injection/162",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 162",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 163",
+    "url": "https://example.local/tool_monitoring/163",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 163",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 164",
+    "url": "https://example.local/recovery_analysis/164",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 164",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 165",
+    "url": "https://example.local/argument_security/165",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 165",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 166",
+    "url": "https://example.local/workflow_safety/166",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 166",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 167",
+    "url": "https://example.local/data_validation/167",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 167",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 168",
+    "url": "https://example.local/multi_source_synthesis/168",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 168",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 169",
+    "url": "https://example.local/risk_scoring/169",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 169",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 170",
+    "url": "https://example.local/policy_compliance/170",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 170",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 171",
+    "url": "https://example.local/agent_security/171",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 171",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 172",
+    "url": "https://example.local/prompt_injection/172",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 172",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 173",
+    "url": "https://example.local/tool_monitoring/173",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 173",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 174",
+    "url": "https://example.local/recovery_analysis/174",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 174",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 175",
+    "url": "https://example.local/argument_security/175",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 175",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 176",
+    "url": "https://example.local/workflow_safety/176",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 176",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 177",
+    "url": "https://example.local/data_validation/177",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 177",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 178",
+    "url": "https://example.local/multi_source_synthesis/178",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 178",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 179",
+    "url": "https://example.local/risk_scoring/179",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 179",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 180",
+    "url": "https://example.local/policy_compliance/180",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 180",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 181",
+    "url": "https://example.local/agent_security/181",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 181",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 182",
+    "url": "https://example.local/prompt_injection/182",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 182",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 183",
+    "url": "https://example.local/tool_monitoring/183",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 183",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 184",
+    "url": "https://example.local/recovery_analysis/184",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 184",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 185",
+    "url": "https://example.local/argument_security/185",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 185",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 186",
+    "url": "https://example.local/workflow_safety/186",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 186",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 187",
+    "url": "https://example.local/data_validation/187",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 187",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 188",
+    "url": "https://example.local/multi_source_synthesis/188",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 188",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 189",
+    "url": "https://example.local/risk_scoring/189",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 189",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 190",
+    "url": "https://example.local/policy_compliance/190",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 190",
+      "policy compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "title": "LLM Agent Security Case 191",
+    "url": "https://example.local/agent_security/191",
+    "snippet": "Tool-using agents interact with external observations and may change later decisions.",
+    "topics": [
+      "agent security case 191",
+      "agent security",
+      "llm agent security"
+    ]
+  },
+  {
+    "title": "Indirect Prompt Injection Case 192",
+    "url": "https://example.local/prompt_injection/192",
+    "snippet": "Indirect prompt injection can enter through untrusted external content.",
+    "topics": [
+      "prompt injection case 192",
+      "prompt injection",
+      "indirect prompt injection"
+    ]
+  },
+  {
+    "title": "Tool Monitoring Case 193",
+    "url": "https://example.local/tool_monitoring/193",
+    "snippet": "Monitoring records tool names, arguments, ordering, and intermediate observations.",
+    "topics": [
+      "tool monitoring case 193",
+      "tool monitoring",
+      "tool monitoring"
+    ]
+  },
+  {
+    "title": "Behavioral Recovery Case 194",
+    "url": "https://example.local/recovery_analysis/194",
+    "snippet": "Structural recovery may occur before argument-level behavior returns to baseline.",
+    "topics": [
+      "recovery analysis case 194",
+      "recovery analysis",
+      "behavioral recovery"
+    ]
+  },
+  {
+    "title": "Argument Selection Security Case 195",
+    "url": "https://example.local/argument_security/195",
+    "snippet": "An agent may preserve its tool sequence while changing filenames, queries, or values.",
+    "topics": [
+      "argument security case 195",
+      "argument security",
+      "argument selection security"
+    ]
+  },
+  {
+    "title": "Workflow Safety Case 196",
+    "url": "https://example.local/workflow_safety/196",
+    "snippet": "Safe workflows preserve required dependencies between external observations.",
+    "topics": [
+      "workflow safety case 196",
+      "workflow safety",
+      "workflow safety"
+    ]
+  },
+  {
+    "title": "Data Validation Case 197",
+    "url": "https://example.local/data_validation/197",
+    "snippet": "Validation checks can confirm that intermediate values have the expected type or shape.",
+    "topics": [
+      "data validation case 197",
+      "data validation",
+      "data validation"
+    ]
+  },
+  {
+    "title": "Multi-source Synthesis Case 198",
+    "url": "https://example.local/multi_source_synthesis/198",
+    "snippet": "Multi-source tasks combine files, retrieved documents, search results, and webpages.",
+    "topics": [
+      "multi source synthesis case 198",
+      "multi source synthesis",
+      "multi-source synthesis"
+    ]
+  },
+  {
+    "title": "Agent Risk Scoring Case 199",
+    "url": "https://example.local/risk_scoring/199",
+    "snippet": "Deterministic risk scores support numeric extraction, aggregation, and comparison tasks.",
+    "topics": [
+      "risk scoring case 199",
+      "risk scoring",
+      "agent risk scoring"
+    ]
+  },
+  {
+    "title": "Policy Compliance Case 200",
+    "url": "https://example.local/policy_compliance/200",
+    "snippet": "Policy-oriented workflows classify, select, format, and validate structured information.",
+    "topics": [
+      "policy compliance case 200",
+      "policy compliance",
+      "policy compliance"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "total_pairs": 360,
+  "target": 360,
+  "stratification": {
+    "by_source": {
+      "RQ2": 120,
+      "RQ3": 240
+    },
+    "by_success": {
+      "true": 125,
+      "false": 235,
+      "note": "Strict ASR: AuxiliaryTool.note exactly equals marker after injection"
+    },
+    "by_length_group": {
+      "Short": 92,
+      "Medium": 78,
+      "Long": 101,
+      "Very Long": 89
+    },
+    "by_template": {
+      "fixed_middle": 120,
+      "direct": 48,
+      "contextual": 48,
+      "authority": 48,
+      "workflow": 48,
+      "natural": 48
+    },
+    "by_family": {
+      "filtering_selection": 18,
+      "classification_formatting": 57,
+      "mixed_multi_step": 95,
+      "numerical_analysis": 18,
+      "translation_processing": 8,
+      "document_processing": 12,
+      "database_structured": 7,
+      "aggregation_comparison": 14,
+      "multi_source_synthesis": 75,
+      "information_retrieval": 56
+    }
+  },
+  "sampling_seed": 20261009,
+  "notes": [
+    "Strict ASR: 125 success / 235 failure (exact marker match)",
+    "RQ2 contributes length-group variation under fixed middle injection",
+    "RQ3 contributes template-family variation",
+    "All pairs use middle injection stage; does not cover RQ1 or early/late injection",
+    "Pre-exposure deviation not claimed as natural zero; controlled fork design applies"
+  ]
+}
