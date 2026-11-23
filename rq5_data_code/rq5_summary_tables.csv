@@ -3,12 +3,12 @@ endpoint_process,glm-5.3-flash,attack_itt,ITT ASR,0.435,0.36,0.51,rate,200.0,40.
 endpoint_process,glm-5.3-flash,valid_attack,Valid ASR,0.4416243654822335,0.3673469387755102,0.5202020202020202,rate,197.0,40.0,,,,,,
 endpoint_process,glm-5.3-flash,valid_attack,Structural deviation,0.5329949238578681,0.4595959595959596,0.6091370558375635,rate,197.0,40.0,,,,,,
 endpoint_process,glm-5.3-flash,valid_attack,Parameter deviation,0.8426395939086294,0.7839195979899497,0.8974358974358975,rate,197.0,40.0,,,,,,
-endpoint_process,glm-5.3-flash,valid_attack,AA-Dev,0.5533,0.4721,0.6294,rate,197.0,40.0,,,,,,
+endpoint_process,glm-5.3-flash,valid_attack,AA-Dev,0.5431,0.48310000000000003,0.6031,rate,197.0,40.0,,,,,,
 endpoint_process,gpt-5.4-mini,attack_itt,ITT ASR,0.37,0.3,0.445,rate,200.0,40.0,,,,,,
 endpoint_process,gpt-5.4-mini,valid_attack,Valid ASR,0.3894736842105263,0.3157894736842105,0.4656084656084656,rate,190.0,40.0,,,,,,
 endpoint_process,gpt-5.4-mini,valid_attack,Structural deviation,0.5105263157894737,0.4352331606217616,0.5851063829787234,rate,190.0,40.0,,,,,,
 endpoint_process,gpt-5.4-mini,valid_attack,Parameter deviation,0.8473684210526315,0.793459957197567,0.9,rate,190.0,40.0,,,,,,
-endpoint_process,gpt-5.4-mini,valid_attack,AA-Dev,0.5105,0.4368,0.5842,rate,190.0,40.0,,,,,,
+endpoint_process,gpt-5.4-mini,valid_attack,AA-Dev,0.5263,0.4663,0.5863,rate,190.0,40.0,,,,,,
 control_deltas,glm-5.3-flash,paired_deltas,ΔS-Dev vs Context,0.3197969543147208,0.233502538071066,0.4123711340206185,difference,197.0,40.0,,,,,,
 control_deltas,glm-5.3-flash,paired_deltas,ΔS-Dev vs Benign,0.3959390862944162,0.3096446700507614,0.4845360824742268,difference,197.0,40.0,,,,,,
 control_deltas,glm-5.3-flash,paired_deltas,ΔP-Dev vs Context,0.4416243654822335,0.3484848484848485,0.5306122448979592,difference,197.0,40.0,,,,,,
@@ -33,9 +33,9 @@ failed_controls,gpt-5.4-mini,failed_attack,Matched Benign S-Dev,0.15517241379310
 failed_controls,gpt-5.4-mini,failed_attack,Matched Benign P-Dev,0.3620689655172414,0.2586206896551724,0.4655172413793103,rate,116.0,39.0,,,,,,
 failed_controls,gpt-5.4-mini,failed_attack,Failure AA-Dev,0.1983,0.1293,0.2759,rate,116.0,39.0,,,,,,
 failed_controls,gpt-5.4-mini,failed_attack,Failure ProvenanceHit,0.1983,0.1293,0.2759,rate,116.0,39.0,,,,,,
-recovery,glm-5.3-flash,,,,1.0,1.0,,,,Structural,105.0,99.0,6.0,99.0,1.0
+recovery,glm-5.3-flash,,,,0.7281000000000001,0.8881,,,,Structural,105.0,99.0,6.0,80.0,0.8081
 recovery,glm-5.3-flash,,,,0.0588235294117647,0.1702127659574468,,,,Parameter,166.0,154.0,12.0,17.0,0.1103896103896103
-recovery,gpt-5.4-mini,,,,1.0,1.0,,,,Structural,97.0,89.0,8.0,89.0,1.0
+recovery,gpt-5.4-mini,,,,0.7178,0.8777999999999999,,,,Structural,97.0,89.0,8.0,71.0,0.7978
 recovery,gpt-5.4-mini,,,,0.0738181010659297,0.1973684210526315,,,,Parameter,161.0,150.0,11.0,20.0,0.1333333333333333
 clean_clean,glm-5.3-flash,clean_clean,Clean-Clean S-Dev,0.1225,0.0875,0.16,rate,400.0,40.0,,,,,,
 clean_clean,glm-5.3-flash,clean_clean,Clean-Clean P-Dev,0.3275,0.24,0.4175,rate,400.0,40.0,,,,,,

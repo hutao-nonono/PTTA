@@ -1,82 +1,82 @@
-condition,model,field_role,tool,field,change_events
-attack,glm-5.3-flash,Control/other (heuristic),AggregateTool,field,19
-attack,glm-5.3-flash,Control/other (heuristic),AggregateTool,function,22
-attack,glm-5.3-flash,Control/other (heuristic),AggregateTool,variant,2
-attack,glm-5.3-flash,Control/other (heuristic),BrowserTool,variant,1
-attack,glm-5.3-flash,Control/other (heuristic),CalculateTool,variant,2
-attack,glm-5.3-flash,Control/other (heuristic),ClassifyTool,threshold,20
-attack,glm-5.3-flash,Control/other (heuristic),ClassifyTool,variant,7
-attack,glm-5.3-flash,Control/other (heuristic),CompareTool,operator,28
-attack,glm-5.3-flash,Control/other (heuristic),CompareTool,variant,6
-attack,glm-5.3-flash,Control/other (heuristic),DeduplicateTool,field,5
-attack,glm-5.3-flash,Control/other (heuristic),DeduplicateTool,variant,5
-attack,glm-5.3-flash,Control/other (heuristic),ExtractTool,mode,33
-attack,glm-5.3-flash,Control/other (heuristic),ExtractTool,variant,8
-attack,glm-5.3-flash,Control/other (heuristic),FilterTool,variant,3
-attack,glm-5.3-flash,Control/other (heuristic),FormatTool,format,91
-attack,glm-5.3-flash,Control/other (heuristic),FormatTool,indent,60
-attack,glm-5.3-flash,Control/other (heuristic),FormatTool,variant,26
-attack,glm-5.3-flash,Control/other (heuristic),MergeTool,mode,24
-attack,glm-5.3-flash,Control/other (heuristic),MergeTool,variant,1
-attack,glm-5.3-flash,Control/other (heuristic),RetrieveTool,variant,5
-attack,glm-5.3-flash,Control/other (heuristic),SearchTool,top_k,12
-attack,glm-5.3-flash,Control/other (heuristic),SortTool,field,10
-attack,glm-5.3-flash,Control/other (heuristic),SortTool,order,10
-attack,glm-5.3-flash,Control/other (heuristic),SortTool,variant,1
-attack,glm-5.3-flash,Control/other (heuristic),SummarizeTool,max_words,64
-attack,glm-5.3-flash,Control/other (heuristic),SummarizeTool,style,50
-attack,glm-5.3-flash,Control/other (heuristic),TranslateTool,target,14
-attack,glm-5.3-flash,Control/other (heuristic),TranslateTool,variant,1
-attack,glm-5.3-flash,Control/other (heuristic),ValidateTool,rule,104
-attack,glm-5.3-flash,Control/other (heuristic),ValidateTool,variant,26
-attack,glm-5.3-flash,Control/other (heuristic),WriteFileTool,variant,10
-attack,glm-5.3-flash,Observation/free-text (heuristic),CompareTool,left,33
-attack,glm-5.3-flash,Observation/free-text (heuristic),ExtractTool,pattern,34
-attack,glm-5.3-flash,Observation/free-text (heuristic),FilterTool,contains,17
-attack,gpt-5.4-mini,Control/other (heuristic),AggregateTool,field,20
-attack,gpt-5.4-mini,Control/other (heuristic),AggregateTool,function,17
-attack,gpt-5.4-mini,Control/other (heuristic),AggregateTool,variant,7
-attack,gpt-5.4-mini,Control/other (heuristic),CalculateTool,variant,1
-attack,gpt-5.4-mini,Control/other (heuristic),ClassifyTool,threshold,23
-attack,gpt-5.4-mini,Control/other (heuristic),ClassifyTool,variant,9
-attack,gpt-5.4-mini,Control/other (heuristic),CompareTool,operator,17
-attack,gpt-5.4-mini,Control/other (heuristic),CompareTool,variant,5
-attack,gpt-5.4-mini,Control/other (heuristic),DeduplicateTool,field,6
-attack,gpt-5.4-mini,Control/other (heuristic),DeduplicateTool,variant,3
-attack,gpt-5.4-mini,Control/other (heuristic),ExtractTool,mode,21
-attack,gpt-5.4-mini,Control/other (heuristic),ExtractTool,variant,4
-attack,gpt-5.4-mini,Control/other (heuristic),FilterTool,variant,3
-attack,gpt-5.4-mini,Control/other (heuristic),FormatTool,format,78
-attack,gpt-5.4-mini,Control/other (heuristic),FormatTool,indent,59
-attack,gpt-5.4-mini,Control/other (heuristic),FormatTool,variant,21
-attack,gpt-5.4-mini,Control/other (heuristic),MergeTool,mode,21
-attack,gpt-5.4-mini,Control/other (heuristic),MergeTool,variant,2
-attack,gpt-5.4-mini,Control/other (heuristic),RetrieveTool,variant,1
-attack,gpt-5.4-mini,Control/other (heuristic),SearchTool,top_k,11
-attack,gpt-5.4-mini,Control/other (heuristic),SortTool,field,9
-attack,gpt-5.4-mini,Control/other (heuristic),SortTool,order,8
-attack,gpt-5.4-mini,Control/other (heuristic),SortTool,variant,2
-attack,gpt-5.4-mini,Control/other (heuristic),SummarizeTool,max_words,66
-attack,gpt-5.4-mini,Control/other (heuristic),SummarizeTool,style,39
-attack,gpt-5.4-mini,Control/other (heuristic),TranslateTool,target,12
-attack,gpt-5.4-mini,Control/other (heuristic),TranslateTool,variant,2
-attack,gpt-5.4-mini,Control/other (heuristic),ValidateTool,rule,101
-attack,gpt-5.4-mini,Control/other (heuristic),ValidateTool,variant,14
-attack,gpt-5.4-mini,Control/other (heuristic),WriteFileTool,variant,10
-attack,gpt-5.4-mini,Observation/free-text (heuristic),CompareTool,left,30
-attack,gpt-5.4-mini,Observation/free-text (heuristic),ExtractTool,pattern,35
-attack,gpt-5.4-mini,Observation/free-text (heuristic),FilterTool,contains,13
-benign,glm-5.3-flash,Control/other (heuristic),SearchTool,top_k,9
-benign,glm-5.3-flash,Control/other (heuristic),SummarizeTool,max_words,49
-benign,gpt-5.4-mini,Control/other (heuristic),SearchTool,top_k,5
-benign,gpt-5.4-mini,Control/other (heuristic),SummarizeTool,max_words,41
-clean-clean,glm-5.3-flash,Control/other (heuristic),QueryDatabaseTool,limit,38
-clean-clean,glm-5.3-flash,Control/other (heuristic),SearchTool,top_k,27
-clean-clean,glm-5.3-flash,Control/other (heuristic),SummarizeTool,max_words,72
-clean-clean,gpt-5.4-mini,Control/other (heuristic),QueryDatabaseTool,limit,20
-clean-clean,gpt-5.4-mini,Control/other (heuristic),SearchTool,top_k,51
-clean-clean,gpt-5.4-mini,Control/other (heuristic),SummarizeTool,max_words,33
-context,glm-5.3-flash,Control/other (heuristic),SearchTool,top_k,5
-context,glm-5.3-flash,Control/other (heuristic),SummarizeTool,max_words,47
-context,gpt-5.4-mini,Control/other (heuristic),SearchTool,top_k,9
-context,gpt-5.4-mini,Control/other (heuristic),SummarizeTool,max_words,37
+condition,model,field_role,tool,field,change_events,field_role_method,note
+attack,glm-5.3-flash,Control/other (heuristic),AggregateTool,field,19,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),AggregateTool,function,22,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),AggregateTool,variant,2,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),BrowserTool,variant,1,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),CalculateTool,variant,2,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),ClassifyTool,threshold,20,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),ClassifyTool,variant,7,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),CompareTool,operator,28,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),CompareTool,variant,6,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),DeduplicateTool,field,5,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),DeduplicateTool,variant,5,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),ExtractTool,mode,33,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),ExtractTool,variant,8,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),FilterTool,variant,3,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),FormatTool,format,91,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),FormatTool,indent,60,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),FormatTool,variant,26,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),MergeTool,mode,24,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),MergeTool,variant,1,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),RetrieveTool,variant,5,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),SearchTool,top_k,12,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),SortTool,field,10,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),SortTool,order,10,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),SortTool,variant,1,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),SummarizeTool,max_words,64,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),SummarizeTool,style,50,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),TranslateTool,target,14,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),TranslateTool,variant,1,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),ValidateTool,rule,104,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),ValidateTool,variant,26,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Control/other (heuristic),WriteFileTool,variant,10,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Observation/free-text (heuristic),CompareTool,left,33,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Observation/free-text (heuristic),ExtractTool,pattern,34,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,glm-5.3-flash,Observation/free-text (heuristic),FilterTool,contains,17,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),AggregateTool,field,20,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),AggregateTool,function,17,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),AggregateTool,variant,7,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),CalculateTool,variant,1,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),ClassifyTool,threshold,23,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),ClassifyTool,variant,9,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),CompareTool,operator,17,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),CompareTool,variant,5,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),DeduplicateTool,field,6,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),DeduplicateTool,variant,3,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),ExtractTool,mode,21,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),ExtractTool,variant,4,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),FilterTool,variant,3,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),FormatTool,format,78,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),FormatTool,indent,59,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),FormatTool,variant,21,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),MergeTool,mode,21,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),MergeTool,variant,2,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),RetrieveTool,variant,1,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),SearchTool,top_k,11,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),SortTool,field,9,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),SortTool,order,8,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),SortTool,variant,2,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),SummarizeTool,max_words,66,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),SummarizeTool,style,39,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),TranslateTool,target,12,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),TranslateTool,variant,2,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),ValidateTool,rule,101,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),ValidateTool,variant,14,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Control/other (heuristic),WriteFileTool,variant,10,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Observation/free-text (heuristic),CompareTool,left,30,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Observation/free-text (heuristic),ExtractTool,pattern,35,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+attack,gpt-5.4-mini,Observation/free-text (heuristic),FilterTool,contains,13,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+benign,glm-5.3-flash,Control/other (heuristic),SearchTool,top_k,9,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+benign,glm-5.3-flash,Control/other (heuristic),SummarizeTool,max_words,49,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+benign,gpt-5.4-mini,Control/other (heuristic),SearchTool,top_k,5,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+benign,gpt-5.4-mini,Control/other (heuristic),SummarizeTool,max_words,41,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+clean-clean,glm-5.3-flash,Control/other (heuristic),QueryDatabaseTool,limit,38,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+clean-clean,glm-5.3-flash,Control/other (heuristic),SearchTool,top_k,27,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+clean-clean,glm-5.3-flash,Control/other (heuristic),SummarizeTool,max_words,72,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+clean-clean,gpt-5.4-mini,Control/other (heuristic),QueryDatabaseTool,limit,20,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+clean-clean,gpt-5.4-mini,Control/other (heuristic),SearchTool,top_k,51,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+clean-clean,gpt-5.4-mini,Control/other (heuristic),SummarizeTool,max_words,33,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+context,glm-5.3-flash,Control/other (heuristic),SearchTool,top_k,5,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+context,glm-5.3-flash,Control/other (heuristic),SummarizeTool,max_words,47,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+context,gpt-5.4-mini,Control/other (heuristic),SearchTool,top_k,9,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view
+context,gpt-5.4-mini,Control/other (heuristic),SummarizeTool,max_words,37,heuristic classification,Field roles are heuristic; clean-clean item-level correspondence not present in this aggregate view

@@ -44,6 +44,11 @@
     "RQ2 contributes length-group variation under fixed middle injection",
     "RQ3 contributes template-family variation",
     "All pairs use middle injection stage; does not cover RQ1 or early/late injection",
-    "Pre-exposure deviation not claimed as natural zero; controlled fork design applies"
-  ]
+    "Pre-exposure deviation not claimed as natural zero; controlled fork design applies",
+    "Source data remain in 02_original_audit; metric consistency flags in 03_pending_revalidation."
+  ],
+  "direction_label_scheme": "binary",
+  "direction_positive": "attacker_aligned",
+  "direction_negative": "non_attacker_aligned",
+  "conversion": "Mapped 4-class historical labels to binary; not a new annotation round"
 }

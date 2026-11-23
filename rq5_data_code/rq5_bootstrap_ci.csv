@@ -3,8 +3,8 @@ glm-5.3-flash,attack_itt,ITT ASR,0.435,0.36,0.51,rate,200,40
 glm-5.3-flash,valid_attack,Valid ASR,0.4416243654822335,0.3673469387755102,0.5202020202020202,rate,197,40
 glm-5.3-flash,valid_attack,Structural deviation,0.5329949238578681,0.4595959595959596,0.6091370558375635,rate,197,40
 glm-5.3-flash,valid_attack,Parameter deviation,0.8426395939086294,0.7839195979899497,0.8974358974358975,rate,197,40
-glm-5.3-flash,valid_attack,AA-Dev,0.5533,0.4721,0.6294,rate,197,40
-glm-5.3-flash,valid_attack,ProvenanceHit,0.5533,0.4721,0.6294,rate,197,40
+glm-5.3-flash,valid_attack,AA-Dev,0.5431,0.48310000000000003,0.6031,rate,197,40
+glm-5.3-flash,valid_attack,ProvenanceHit,0.5431,0.48310000000000003,0.6031,rate,197,40
 glm-5.3-flash,valid_attack,Structural DDD,0.5532994923857868,0.4747474747474747,0.6363636363636364,steps,197,40
 glm-5.3-flash,valid_attack,Parameter DDD,4.137055837563452,3.6395939086294415,4.634033047255221,steps,197,40
 glm-5.3-flash,valid_attack,Structural NDDD,0.1344935943920715,0.1081933090879791,0.1628190143190143,ratio,197,40
@@ -34,14 +34,14 @@ glm-5.3-flash,failed_attack,Matched Benign S-Dev,0.1363636363636363,0.0754716981
 glm-5.3-flash,failed_attack,Matched Benign P-Dev,0.3090909090909091,0.2110091743119266,0.4134698275862067,rate,110,37
 glm-5.3-flash,failed_attack,Failure AA-Dev,0.2,0.1273,0.2818,rate,110,37
 glm-5.3-flash,failed_attack,Failure ProvenanceHit,0.2,0.1273,0.2818,rate,110,37
-glm-5.3-flash,recovery_eligible,Structural recovery,1.0,1.0,1.0,rate,99,39
+glm-5.3-flash,recovery_eligible,Structural recovery,0.8081,0.7281000000000001,0.8881,rate,99,39
 glm-5.3-flash,recovery_eligible,Parameter recovery,0.1103896103896103,0.0588235294117647,0.1702127659574468,rate,154,40
 gpt-5.4-mini,attack_itt,ITT ASR,0.37,0.3,0.445,rate,200,40
 gpt-5.4-mini,valid_attack,Valid ASR,0.3894736842105263,0.3157894736842105,0.4656084656084656,rate,190,40
 gpt-5.4-mini,valid_attack,Structural deviation,0.5105263157894737,0.4352331606217616,0.5851063829787234,rate,190,40
 gpt-5.4-mini,valid_attack,Parameter deviation,0.8473684210526315,0.793459957197567,0.9,rate,190,40
-gpt-5.4-mini,valid_attack,AA-Dev,0.5105,0.4368,0.5842,rate,190,40
-gpt-5.4-mini,valid_attack,ProvenanceHit,0.5105,0.4368,0.5842,rate,190,40
+gpt-5.4-mini,valid_attack,AA-Dev,0.5263,0.4663,0.5863,rate,190,40
+gpt-5.4-mini,valid_attack,ProvenanceHit,0.5263,0.4663,0.5863,rate,190,40
 gpt-5.4-mini,valid_attack,Structural DDD,0.5526315789473685,0.466312427094919,0.6344214029697899,steps,190,40
 gpt-5.4-mini,valid_attack,Parameter DDD,4.078947368421052,3.601036269430052,4.561506284800705,steps,190,40
 gpt-5.4-mini,valid_attack,Structural NDDD,0.1362155388471178,0.1085260617936092,0.1677659872849662,ratio,190,40
@@ -71,5 +71,5 @@ gpt-5.4-mini,failed_attack,Matched Benign S-Dev,0.1551724137931034,0.09259259259
 gpt-5.4-mini,failed_attack,Matched Benign P-Dev,0.3620689655172414,0.2586206896551724,0.4655172413793103,rate,116,39
 gpt-5.4-mini,failed_attack,Failure AA-Dev,0.1983,0.1293,0.2759,rate,116,39
 gpt-5.4-mini,failed_attack,Failure ProvenanceHit,0.1983,0.1293,0.2759,rate,116,39
-gpt-5.4-mini,recovery_eligible,Structural recovery,1.0,1.0,1.0,rate,89,36
+gpt-5.4-mini,recovery_eligible,Structural recovery,0.7978,0.7178,0.8777999999999999,rate,89,36
 gpt-5.4-mini,recovery_eligible,Parameter recovery,0.1333333333333333,0.0738181010659297,0.1973684210526315,rate,150,40

@@ -1,0 +1,31 @@
+{
+  "notes": [
+    "Computed solely by binary remapping of the originally provided labels",
+    "Prediction source is formal_v1; changed label representation does not retrain/re-run the PTTA implementation",
+    "Scores do not establish correctness of the underlying attack-direction semantics or validate defensive classification"
+  ],
+  "n_pairs": 360,
+  "positive_support_adjudicated": 235,
+  "negative_support_adjudicated": 125,
+  "annotators": {
+    "observed_agreement": 0.9222222222222223,
+    "cohen_kappa": 0.8302801724137931,
+    "positive_counts": [
+      232,
+      232
+    ]
+  },
+  "ptta_vs_adjudicated": {
+    "accuracy": 0.9638888888888889,
+    "precision": 0.9549180327868853,
+    "recall": 0.9914893617021276,
+    "f1": 0.9728601252609603,
+    "cohen_kappa": 0.9189750692520776,
+    "confusion_matrix": {
+      "TP": 233,
+      "FP": 11,
+      "FN": 2,
+      "TN": 114
+    }
+  }
+}
